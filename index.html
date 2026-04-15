@@ -1,0 +1,539 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Memphis Live — TDOT Cameras · Police Scanner · Speed Cams</title>
+  <meta name="description" content="Live TDOT traffic cameras, police scanner frequencies, and every speed/red light camera in Tennessee on an interactive map with GPS alerts." />
+
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="" />
+  <!-- HLS.js for live stream playback -->
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest/dist/hls.min.js"></script>
+  <!-- Leaflet -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet" />
+
+  <link rel="stylesheet" href="style.css" />
+
+  <!-- PWA -->
+  <link rel="manifest" href="manifest.json" />
+  <meta name="theme-color" content="#0d1117" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="Memphis Live Traffic" />
+  <link rel="apple-touch-icon" href="icon-192.png" />
+</head>
+<body>
+
+  <!-- Header -->
+  <header class="site-header">
+    <div class="header-left">
+      <svg class="logo-icon" viewBox="0 0 36 36" fill="none" aria-label="Memphis Live" xmlns="http://www.w3.org/2000/svg">
+        <rect width="36" height="36" rx="8" fill="var(--color-primary)"/>
+        <rect x="7" y="17" width="22" height="2" fill="white" opacity="0.9"/>
+        <rect x="17" y="7" width="2" height="22" fill="white" opacity="0.9"/>
+        <circle cx="18" cy="18" r="5" fill="none" stroke="white" stroke-width="1.5"/>
+        <circle cx="18" cy="18" r="2" fill="white"/>
+        <circle cx="28" cy="8" r="3" fill="#ff4d4d"/>
+      </svg>
+      <div class="header-title">
+        <span class="brand-name">MemphisLive</span>
+        <span class="brand-sub">TDOT Cameras · Scanner · Speed Cams</span>
+      </div>
+    </div>
+    <div class="header-center">
+      <!-- Main Nav Tabs -->
+      <nav class="main-tabs" role="tablist">
+        <button class="main-tab active" data-panel="cameras" role="tab" aria-selected="true">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="3" width="20" height="14" rx="2"/><path d="M8 21h8M12 17v4"/></svg>
+          Cameras
+        </button>
+        <button class="main-tab" data-panel="scanner" role="tab" aria-selected="false">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M2 12h3M19 12h3M12 2v3M12 19v3"/><circle cx="12" cy="12" r="4"/><path d="M4.93 4.93l2.12 2.12M16.95 16.95l2.12 2.12M4.93 19.07l2.12-2.12M16.95 7.05l2.12-2.12"/></svg>
+          Scanner
+        </button>
+        <button class="main-tab" data-panel="speedcams" role="tab" aria-selected="false">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg>
+          Speed Cams
+        </button>
+      </nav>
+      <div class="live-badge">
+        <span class="live-dot"></span>
+        <span>LIVE</span>
+      </div>
+      <span class="cam-count" id="camCount">Loading…</span>
+    </div>
+    <div class="header-right">
+      <button class="icon-btn" data-theme-toggle aria-label="Toggle dark/light mode">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+      </button>
+    </div>
+  </header>
+
+  <!-- Main layout -->
+  <div class="app-layout">
+
+    <!-- ═══════════════════════════════════════════════════════
+         CAMERAS PANEL (sidebar + map)
+         ═══════════════════════════════════════════════════════ -->
+    <div class="panel-wrap" id="panelCameras">
+
+      <!-- Sidebar -->
+      <aside class="sidebar" id="sidebar">
+        <div class="sidebar-section">
+          <label class="sidebar-label">Search Cameras</label>
+          <div class="search-wrap">
+            <svg class="search-icon" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+            <input type="text" id="searchInput" class="search-input" placeholder="I-40, Lamar, SR 385…" autocomplete="off" />
+          </div>
+        </div>
+
+        <div class="sidebar-section">
+          <label class="sidebar-label">Filter by Region</label>
+          <div class="region-filter" id="regionFilterCams">
+            <button class="region-chip active" data-region="all">All</button>
+            <button class="region-chip" data-region="TN">Tennessee</button>
+            <button class="region-chip" data-region="MS">Mississippi</button>
+            <button class="region-chip" data-region="AR">Arkansas</button>
+          </div>
+        </div>
+
+        <div class="sidebar-section">
+          <label class="sidebar-label">Filter by Route</label>
+          <div class="filter-chips" id="routeFilters">
+            <button class="chip active" data-route="ALL">All</button>
+          </div>
+        </div>
+
+        <div class="sidebar-section">
+          <div class="stats-grid">
+            <div class="stat-card">
+              <span class="stat-num" id="statVisible">140</span>
+              <span class="stat-lbl">Visible</span>
+            </div>
+            <div class="stat-card">
+              <span class="stat-num" id="statActive">140</span>
+              <span class="stat-lbl">Active</span>
+            </div>
+            <div class="stat-card">
+              <span class="stat-num" id="statRoutes">8</span>
+              <span class="stat-lbl">Routes</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="sidebar-section" style="flex:1;overflow:hidden;display:flex;flex-direction:column;">
+          <label class="sidebar-label">Camera List</label>
+          <div class="cam-list" id="camList"></div>
+        </div>
+      </aside>
+
+      <!-- Map container -->
+      <div class="map-wrap">
+        <div id="map"></div>
+
+        <!-- Map controls overlay -->
+        <div class="map-overlay-controls">
+          <button class="map-ctrl-btn" id="btnResetView" title="Reset to Memphis">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M3 12a9 9 0 1 0 18 0 9 9 0 0 0-18 0"/><path d="M12 8v4l3 3"/></svg>
+          </button>
+          <button class="map-ctrl-btn" id="btnToggleSidebar" title="Toggle sidebar">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M9 3v18"/></svg>
+          </button>
+          <button class="map-ctrl-btn traffic-flow-btn active" id="btnToggleTraffic" title="Hide traffic flow" onclick="toggleTrafficFlow()">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M12 2v20M4 7l4-4 4 4M16 17l-4 4-4-4M20 12H4"/></svg>
+          </button>
+          <button class="map-ctrl-btn incident-toggle-btn active" id="btnToggleIncidents" title="Hide incidents" onclick="toggleIncidents()">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>
+            <span class="incident-badge" id="incidentCountBadge" style="display:none">0</span>
+          </button>
+        </div>
+
+        <!-- Legend -->
+        <div class="map-legend">
+          <div class="legend-item"><span class="legend-dot" style="background:#22c55e"></span>Active Stream</div>
+          <div class="legend-item"><span class="legend-dot" style="background:#f59e0b"></span>Limited View</div>
+          <div class="legend-item"><span class="legend-dot" style="background:#ef4444"></span>Offline</div>
+          <div class="legend-divider"></div>
+          <div class="legend-item"><span class="legend-bar" style="background:#2EAB30"></span>Free Flow</div>
+          <div class="legend-item"><span class="legend-bar" style="background:#F1BF40"></span>Moderate</div>
+          <div class="legend-item"><span class="legend-bar" style="background:#F18237"></span>Slow</div>
+          <div class="legend-item"><span class="legend-bar" style="background:#E70704"></span>Stopped</div>
+          <div class="legend-divider"></div>
+          <div class="legend-item"><span class="legend-dot" style="background:#f85149"></span>Accident</div>
+          <div class="legend-item"><span class="legend-dot" style="background:#ff7b00"></span>Closure</div>
+          <div class="legend-item"><span class="legend-dot" style="background:#f59e0b"></span>Congestion</div>
+          <div class="legend-item"><span class="legend-dot" style="background:#a78bfa"></span>Road Work</div>
+        </div>
+      </div>
+
+    </div><!-- /panelCameras -->
+
+    <!-- ═══════════════════════════════════════════════════════
+         SCANNER PANEL
+         ═══════════════════════════════════════════════════════ -->
+    <div class="panel-wrap scanner-panel" id="panelScanner" hidden>
+
+      <!-- Scanner sidebar -->
+      <aside class="sidebar scanner-sidebar">
+
+        <!-- System info card -->
+        <div class="sidebar-section scanner-system-card">
+          <div class="scanner-system-header">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="var(--color-primary)" stroke-width="2"><path d="M2 12h3M19 12h3M12 2v3M12 19v3"/><circle cx="12" cy="12" r="4"/></svg>
+            <span class="scanner-system-name">P25 Phase II System</span>
+          </div>
+          <div class="scanner-sys-rows">
+            <div class="scanner-sys-row"><span class="sskey">System</span><span class="ssval">Memphis &amp; Shelby County</span></div>
+            <div class="scanner-sys-row"><span class="sskey">System ID</span><span class="ssval mono-sm">9FD / WACN BEE00</span></div>
+            <div class="scanner-sys-row"><span class="sskey">Type</span><span class="ssval">Project 25 Phase II</span></div>
+            <div class="scanner-sys-row"><span class="sskey">Band</span><span class="ssval">800 MHz Digital Trunked</span></div>
+          </div>
+          <div class="scanner-sites" id="scannerSites"></div>
+        </div>
+
+        <!-- Live audio inline player -->
+        <div class="sidebar-section audio-player-section">
+          <label class="sidebar-label">Live Audio — Inline Player</label>
+
+          <!-- Feed selector -->
+          <div class="feed-selector" id="feedSelector">
+            <!-- Shelby County, TN -->
+            <span class="feed-region-label">Shelby Co, TN</span>
+            <button class="feed-chip active" data-feed-id="215" data-feed-name="MPD / Sheriff">
+              <span class="feed-chip-dot"></span>MPD / Sheriff
+            </button>
+            <button class="feed-chip" data-feed-id="43964" data-feed-name="Memphis Fire">
+              <span class="feed-chip-dot"></span>Memphis Fire
+            </button>
+            <button class="feed-chip" data-feed-id="18694" data-feed-name="Collierville PD">
+              <span class="feed-chip-dot"></span>Collierville PD
+            </button>
+            <button class="feed-chip" data-feed-id="19498" data-feed-name="Collierville Fire">
+              <span class="feed-chip-dot"></span>Collierville Fire
+            </button>
+            <button class="feed-chip" data-feed-id="217" data-feed-name="Germantown PD/Fire">
+              <span class="feed-chip-dot"></span>Germantown
+            </button>
+            <button class="feed-chip" data-feed-id="44566" data-feed-name="NOAA Weather">
+              <span class="feed-chip-dot"></span>NOAA Weather
+            </button>
+
+            <!-- Crittenden County, AR -->
+            <span class="feed-region-label">Crittenden Co, AR</span>
+            <button class="feed-chip feed-chip-offline" data-feed-id="45309" data-feed-name="W. Memphis / Marion" disabled title="Feed offline — volunteer scanner not broadcasting">
+              <span class="feed-chip-dot"></span>W. Memphis / Marion
+            </button>
+            <button class="feed-chip" data-feed-id="45918" data-feed-name="Pafford EMS">
+              <span class="feed-chip-dot"></span>Pafford EMS
+            </button>
+
+            <!-- Fayette County, TN -->
+            <span class="feed-region-label">Fayette Co, TN</span>
+            <button class="feed-chip" data-feed-id="26222" data-feed-name="Somerville Fire">
+              <span class="feed-chip-dot"></span>Somerville Fire
+            </button>
+            <button class="feed-chip" data-feed-id="41802" data-feed-name="Oakland Fire">
+              <span class="feed-chip-dot"></span>Oakland Fire
+            </button>
+
+            <!-- Tipton County, TN -->
+            <span class="feed-region-label">Tipton Co, TN</span>
+            <button class="feed-chip" data-feed-id="21460" data-feed-name="Covington Fire">
+              <span class="feed-chip-dot"></span>Covington Fire
+            </button>
+          </div>
+
+          <!-- Player bar -->
+          <div class="audio-player-bar" id="audioPlayerBar">
+            <!-- Play/Pause -->
+            <button class="audio-play-btn" id="audioPlayBtn" aria-label="Play scanner">
+              <svg id="iconPlay" width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><polygon points="5 3 19 12 5 21 5 3"/></svg>
+              <svg id="iconPause" width="16" height="16" viewBox="0 0 24 24" fill="currentColor" style="display:none"><rect x="6" y="4" width="4" height="16"/><rect x="14" y="4" width="4" height="16"/></svg>
+            </button>
+
+            <!-- Feed info -->
+            <div class="audio-info">
+              <span class="audio-feed-name" id="audioFeedName">MPD / Sheriff</span>
+              <span class="audio-status" id="audioStatus">Click play or switch tabs</span>
+            </div>
+
+            <!-- Volume + Mute -->
+            <div class="audio-vol-wrap">
+              <button class="audio-mute-btn" id="audioMuteBtn" aria-label="Mute">
+                <svg id="iconVol" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M11 5L6 9H2v6h4l5 4V5z"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14"/><path d="M15.54 8.46a5 5 0 0 1 0 7.07"/></svg>
+                <svg id="iconMute" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="display:none"><path d="M11 5L6 9H2v6h4l5 4V5z"/><line x1="23" y1="9" x2="17" y2="15"/><line x1="17" y1="9" x2="23" y2="15"/></svg>
+              </button>
+              <input type="range" class="audio-vol-slider" id="audioVolSlider" min="0" max="1" step="0.02" value="0.8" aria-label="Volume" />
+            </div>
+          </div>
+
+          <!-- Live status bar -->
+          <div class="audio-live-bar" id="audioLiveBar">
+            <span class="live-badge-xs" id="audioLiveBadge" style="opacity:0.4">
+              <span class="live-dot"></span>LIVE
+            </span>
+            <span class="audio-listeners" id="audioListeners">— listeners</span>
+            <a class="audio-bcast-link" href="https://www.broadcastify.com/listen/ctid/2506" target="_blank" rel="noopener">Broadcastify ↗</a>
+          </div>
+
+          <!-- Hidden HTML5 audio element -->
+          <audio id="scannerAudio" preload="none" crossorigin="anonymous"></audio>
+        </div>
+
+        <!-- Group filter -->
+        <div class="sidebar-section">
+          <label class="sidebar-label">Filter by Agency</label>
+          <div class="filter-chips" id="scannerGroupFilters"></div>
+        </div>
+
+        <!-- Stats -->
+        <div class="sidebar-section">
+          <div class="stats-grid">
+            <div class="stat-card">
+              <span class="stat-num" id="scanStatTotal">—</span>
+              <span class="stat-lbl">Talkgroups</span>
+            </div>
+            <div class="stat-card">
+              <span class="stat-num" id="scanStatVisible">—</span>
+              <span class="stat-lbl">Shown</span>
+            </div>
+            <div class="stat-card">
+              <span class="stat-num" id="scanStatGroups">9</span>
+              <span class="stat-lbl">Agencies</span>
+            </div>
+          </div>
+        </div>
+
+      </aside>
+
+      <!-- Scanner main content -->
+      <div class="scanner-main">
+
+        <!-- Scanner search + source attribution -->
+        <div class="scanner-topbar">
+          <div class="search-wrap" style="max-width:400px;flex:1;">
+            <svg class="search-icon" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+            <input type="text" id="scannerSearch" class="search-input" placeholder="Search talkgroup, description, DEC…" autocomplete="off" />
+          </div>
+          <a href="https://www.radioreference.com/db/sid/11715" target="_blank" rel="noopener" class="btn-secondary">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+            RadioReference Source
+          </a>
+        </div>
+
+        <!-- Talkgroup table container -->
+        <div class="scanner-table-wrap" id="scannerTableWrap"></div>
+
+        <!-- VHF/Conventional frequencies section -->
+        <div class="scanner-section-header">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="7" width="20" height="15" rx="2"/><path d="M16 2H8l-2 5h12z"/><circle cx="12" cy="14" r="2"/></svg>
+          Conventional / VHF Backup Frequencies
+        </div>
+        <div class="conv-freq-grid" id="convFreqGrid"></div>
+
+        <div class="scanner-footer">
+          Data source: <a href="https://www.radioreference.com/db/ctid/2506" target="_blank" rel="noopener">RadioReference — Shelby County TN</a>. System on 800 MHz P25 Phase II digital trunking. Frequencies last updated Oct 2025. <strong>Note:</strong> Memphis Police and Shelby County Sheriff operate on P25 digital trunked talkgroups — a P25-capable digital scanner or SDR is required to decode.
+        </div>
+
+      </div>
+    </div><!-- /panelScanner -->
+
+    <!-- ═══════════════════════════════════════════════════════
+         SPEED CAMS PANEL
+         ═══════════════════════════════════════════════════════ -->
+    <div class="panel-wrap" id="panelSpeedcams" hidden>
+
+      <!-- Speed cams sidebar -->
+      <aside class="sidebar sc-sidebar" id="scSidebar">
+
+        <!-- Region filter (future expansion) -->
+        <div class="sidebar-section">
+          <label class="sidebar-label">Filter by Region</label>
+          <div class="region-filter" id="regionFilterSc">
+            <button class="region-chip active" data-region="all">All</button>
+            <button class="region-chip" data-region="TN">Tennessee</button>
+          </div>
+        </div>
+
+        <!-- Driving mode toggle -->
+        <div class="sidebar-section">
+          <button class="driving-mode-btn" id="btnDrivingMode">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2z"/><circle cx="12" cy="12" r="3"/><path d="M12 2v4M12 18v4M2 12h4M18 12h4"/></svg>
+            <div class="dm-text">
+              <strong>Driving Mode</strong>
+              <span>GPS alerts · Audio beep · Proximity warnings</span>
+            </div>
+            <span class="dm-status" id="dmStatus">OFF</span>
+          </button>
+        </div>
+
+        <!-- Alert distance -->
+        <div class="sidebar-section">
+          <label class="sidebar-label">Alert Distance</label>
+          <div class="alert-distance-row">
+            <input type="range" id="alertRange" min="500" max="5000" step="250" value="1500" class="alert-slider" />
+            <span class="alert-dist-val" id="alertDistVal">0.9 mi</span>
+          </div>
+        </div>
+
+        <!-- Search -->
+        <div class="sidebar-section">
+          <label class="sidebar-label">Search Cameras</label>
+          <div class="search-wrap">
+            <svg class="search-icon" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+            <input type="text" id="scSearchInput" class="search-input" placeholder="City, intersection, I-40…" autocomplete="off" />
+          </div>
+        </div>
+
+        <!-- Filters -->
+        <div class="sidebar-section">
+          <label class="sidebar-label">Camera Type</label>
+          <div class="filter-chips" id="scTypeFilters"></div>
+        </div>
+        <div class="sidebar-section">
+          <label class="sidebar-label">Status</label>
+          <div class="filter-chips" id="scStatusFilters"></div>
+        </div>
+
+        <!-- Stats -->
+        <div class="sidebar-section">
+          <div class="stats-grid sc-stats-grid">
+            <div class="stat-card">
+              <span class="stat-num" id="scStatTotal">—</span>
+              <span class="stat-lbl">Total</span>
+            </div>
+            <div class="stat-card">
+              <span class="stat-num" id="scStatActive" style="color:var(--color-error)">—</span>
+              <span class="stat-lbl">Active</span>
+            </div>
+            <div class="stat-card">
+              <span class="stat-num" id="scStatShown">—</span>
+              <span class="stat-lbl">Shown</span>
+            </div>
+            <div class="stat-card">
+              <span class="stat-num" id="scStatCities">—</span>
+              <span class="stat-lbl">Cities</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Legal note -->
+        <div class="sidebar-section">
+          <div class="legal-note">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
+            <span>TCA §55-8-198 (2015) bans new speed cameras statewide except school zones and S-curves. Red light cameras were grandfathered. Status reflects latest verified data.</span>
+          </div>
+        </div>
+
+        <!-- City filter -->
+        <div class="sidebar-section" style="flex:1;overflow:hidden;display:flex;flex-direction:column;">
+          <label class="sidebar-label">Filter by City</label>
+          <div class="sc-city-list" id="scCityList"></div>
+        </div>
+
+      </aside>
+
+      <!-- Speed cams map -->
+      <div class="map-wrap">
+        <div id="scMap"></div>
+
+        <!-- Proximity alert banner -->
+        <div class="alert-banner" id="alertBanner" hidden>
+          <div class="alert-banner-icon">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>
+          </div>
+          <div class="alert-banner-text">
+            <strong id="alertTitle">Camera Ahead</strong>
+            <span id="alertDetail">Red light camera — 0.3 mi ahead</span>
+          </div>
+          <button class="alert-dismiss" id="alertDismiss">&times;</button>
+        </div>
+
+        <!-- GPS status bar -->
+        <div class="gps-bar" id="gpsBar" hidden>
+          <span class="gps-dot" id="gpsDot"></span>
+          <span id="gpsText">GPS: Acquiring…</span>
+        </div>
+
+        <!-- Map controls -->
+        <div class="map-overlay-controls">
+          <button class="map-ctrl-btn" id="scBtnResetView" title="Fit all Tennessee">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M9 3v18M3 9h18"/></svg>
+          </button>
+          <button class="map-ctrl-btn" id="scBtnMyLocation" title="Go to my location">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2z"/><circle cx="12" cy="12" r="3"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3"/></svg>
+          </button>
+        </div>
+
+        <!-- Speed cam legend -->
+        <div class="map-legend sc-legend">
+          <div class="legend-item"><span class="legend-dot" style="background:#ef4444"></span>Active Speed Cam</div>
+          <div class="legend-item"><span class="legend-dot" style="background:#f59e0b"></span>Active Red Light</div>
+          <div class="legend-item"><span class="legend-dot" style="background:#6b7280"></span>Removed</div>
+          <div class="legend-item"><span class="legend-dot" style="background:#a78bfa"></span>Disputed</div>
+        </div>
+      </div>
+
+    </div><!-- /panelSpeedcams -->
+
+  </div>
+
+  <!-- Camera Stream Modal -->
+  <div class="modal-overlay" id="modalOverlay" hidden>
+    <div class="modal" id="modal">
+      <div class="modal-header">
+        <div>
+          <h2 class="modal-title" id="modalTitle">Camera</h2>
+          <div class="modal-meta" id="modalMeta"></div>
+        </div>
+        <button class="modal-close" id="modalClose" aria-label="Close">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M18 6 6 18M6 6l12 12"/></svg>
+        </button>
+      </div>
+      <div class="modal-body">
+        <div class="video-wrap" id="videoWrap">
+          <video id="liveVideo" controls muted autoplay playsinline></video>
+          <div class="video-overlay" id="videoOverlay">
+            <div class="spinner"></div>
+            <span>Connecting to live stream…</span>
+          </div>
+        </div>
+        <div class="modal-info" id="modalInfo"></div>
+      </div>
+      <div class="modal-footer">
+        <a id="tdotLink" href="#" target="_blank" class="btn-secondary">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+          Open on TDOT SmartWay
+        </a>
+        <div class="stream-info">
+          <span class="tag">HLS</span>
+          <span class="tag">RTMP Available</span>
+          <span class="tag">RTSP Available</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="scanner_data.js"></script>
+  <script src="app.js"></script>
+  <script src="scanner.js"></script>
+  <script src="speedcams.js"></script>
+
+  <!-- Service Worker Registration -->
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('./sw.js')
+          .then(reg => console.log('SW registered:', reg.scope))
+          .catch(err => console.warn('SW registration failed:', err));
+      });
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,3922 @@
+[
+  {
+    "id": 3272,
+    "title": "I-40/ I-55 at Missouri St.",
+    "description": "I-40/ I-55 at Missouri St.",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_031.flv.png",
+    "httpVideoUrl": "https://mcleansfs1.us-east-1.skyvdn.com:443/rtplive/R4_031/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs1.us-east-1.skyvdn.com:443/rtplive/R4_031/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs1.us-east-1.skyvdn.com:1935/rtplive/R4_031",
+    "rtspVideoUrl": "rtsp://mcleansfs1.us-east-1.skyvdn.com:554/rtplive/R4_031",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs1.us-east-1.skyvdn.com:443/R4_031",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "0",
+    "lat": 35.16736667,
+    "lng": -90.1821333,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.16736667,
+          "lng": -90.1821333
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3273,
+    "title": "I-40/ I240 Midtown Jct.",
+    "description": "I-40/ I240 Midtown Jct.",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_032.flv.png",
+    "httpVideoUrl": "https://mcleansfs1.us-east-1.skyvdn.com:443/rtplive/R4_032/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs1.us-east-1.skyvdn.com:443/rtplive/R4_032/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs1.us-east-1.skyvdn.com:1935/rtplive/R4_032",
+    "rtspVideoUrl": "rtsp://mcleansfs1.us-east-1.skyvdn.com:554/rtplive/R4_032",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs1.us-east-1.skyvdn.com:443/R4_032",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "0",
+    "lat": 35.14988333,
+    "lng": -90.0227167,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.14988333,
+          "lng": -90.0227167
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3274,
+    "title": "I-40 @ Jackson Ave.",
+    "description": "I-40 @ Jackson Ave.",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_033.flv.png",
+    "httpVideoUrl": "https://mcleansfs1.us-east-1.skyvdn.com:443/rtplive/R4_033/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs1.us-east-1.skyvdn.com:443/rtplive/R4_033/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs1.us-east-1.skyvdn.com:1935/rtplive/R4_033",
+    "rtspVideoUrl": "rtsp://mcleansfs1.us-east-1.skyvdn.com:554/rtplive/R4_033",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs1.us-east-1.skyvdn.com:443/R4_033",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "0",
+    "lat": 35.15795,
+    "lng": -90.0198333,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.15795,
+          "lng": -90.0198333
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3275,
+    "title": "I-40 @ Chelsea Ave.",
+    "description": "I-40 @ Chelsea Ave.",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_034.flv.png",
+    "httpVideoUrl": "https://mcleansfs1.us-east-1.skyvdn.com:443/rtplive/R4_034/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs1.us-east-1.skyvdn.com:443/rtplive/R4_034/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs1.us-east-1.skyvdn.com:1935/rtplive/R4_034",
+    "rtspVideoUrl": "rtsp://mcleansfs1.us-east-1.skyvdn.com:554/rtplive/R4_034",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs1.us-east-1.skyvdn.com:443/R4_034",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "0",
+    "lat": 35.17216667,
+    "lng": -90.0182167,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.17216667,
+          "lng": -90.0182167
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3276,
+    "title": "I-40 East of Chelsea Ave.",
+    "description": "I-40 East of Chelsea Ave.",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_035.flv.png",
+    "httpVideoUrl": "https://mcleansfs1.us-east-1.skyvdn.com:443/rtplive/R4_035/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs1.us-east-1.skyvdn.com:443/rtplive/R4_035/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs1.us-east-1.skyvdn.com:1935/rtplive/R4_035",
+    "rtspVideoUrl": "rtsp://mcleansfs1.us-east-1.skyvdn.com:554/rtplive/R4_035",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs1.us-east-1.skyvdn.com:443/R4_035",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "2.4",
+    "lat": 35.18271667,
+    "lng": -90.0175333,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.18271667,
+          "lng": -90.0175333
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3277,
+    "title": "I-40 at Jct with US 51(Danny Thomas)",
+    "description": "I-40 at Jct with US 51(Danny Thomas)",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_036.flv.png",
+    "httpVideoUrl": "https://mcleansfs1.us-east-1.skyvdn.com:443/rtplive/R4_036/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs1.us-east-1.skyvdn.com:443/rtplive/R4_036/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs1.us-east-1.skyvdn.com:1935/rtplive/R4_036",
+    "rtspVideoUrl": "rtsp://mcleansfs1.us-east-1.skyvdn.com:554/rtplive/R4_036",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs1.us-east-1.skyvdn.com:443/R4_036",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "0",
+    "lat": 35.19173333,
+    "lng": -90.0164,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.19173333,
+          "lng": -90.0164
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3278,
+    "title": "US 51 (Danny Thomas) at Jct I-240",
+    "description": "US 51 (Danny Thomas) at Jct I-240",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_037.flv.png",
+    "httpVideoUrl": "https://mcleansfs1.us-east-1.skyvdn.com:443/rtplive/R4_037/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs1.us-east-1.skyvdn.com:443/rtplive/R4_037/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs1.us-east-1.skyvdn.com:1935/rtplive/R4_037",
+    "rtspVideoUrl": "rtsp://mcleansfs1.us-east-1.skyvdn.com:554/rtplive/R4_037",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs1.us-east-1.skyvdn.com:443/R4_037",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "51",
+    "mileMarker": "0",
+    "lat": 35.19926667,
+    "lng": -90.0301667,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.19926667,
+          "lng": -90.0301667
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3279,
+    "title": "I-40 @ Watkins",
+    "description": "I-40 @ Watkins",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_038.flv.png",
+    "httpVideoUrl": "https://mcleansfs1.us-east-1.skyvdn.com:443/rtplive/R4_038/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs1.us-east-1.skyvdn.com:443/rtplive/R4_038/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs1.us-east-1.skyvdn.com:1935/rtplive/R4_038",
+    "rtspVideoUrl": "rtsp://mcleansfs1.us-east-1.skyvdn.com:554/rtplive/R4_038",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs1.us-east-1.skyvdn.com:443/R4_038",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "3.2",
+    "lat": 35.19158333,
+    "lng": -90.0075333,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.19158333,
+          "lng": -90.0075333
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3280,
+    "title": "I-40 @ McLean",
+    "description": "I-40 @ McLean",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_039.flv.png",
+    "httpVideoUrl": "https://mcleansfs1.us-east-1.skyvdn.com:443/rtplive/R4_039/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs1.us-east-1.skyvdn.com:443/rtplive/R4_039/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs1.us-east-1.skyvdn.com:1935/rtplive/R4_039",
+    "rtspVideoUrl": "rtsp://mcleansfs1.us-east-1.skyvdn.com:554/rtplive/R4_039",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs1.us-east-1.skyvdn.com:443/R4_039",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "4.4",
+    "lat": 35.1922,
+    "lng": -89.9884667,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.1922,
+          "lng": -89.9884667
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3281,
+    "title": "I-40 @ Hollywood",
+    "description": "I-40 @ Hollywood",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_040.flv.png",
+    "httpVideoUrl": "https://mcleansfs1.us-east-1.skyvdn.com:443/rtplive/R4_040/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs1.us-east-1.skyvdn.com:443/rtplive/R4_040/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs1.us-east-1.skyvdn.com:1935/rtplive/R4_040",
+    "rtspVideoUrl": "rtsp://mcleansfs1.us-east-1.skyvdn.com:554/rtplive/R4_040",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs1.us-east-1.skyvdn.com:443/R4_040",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "5",
+    "lat": 35.1915,
+    "lng": -89.9751833,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.1915,
+          "lng": -89.9751833
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3282,
+    "title": "I-55 n of MS State Line",
+    "description": "I-55 n of MS State Line",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_081.flv.png",
+    "httpVideoUrl": "https://mcleansfs1.us-east-1.skyvdn.com:443/rtplive/R4_081/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs1.us-east-1.skyvdn.com:443/rtplive/R4_081/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs1.us-east-1.skyvdn.com:1935/rtplive/R4_081",
+    "rtspVideoUrl": "rtsp://mcleansfs1.us-east-1.skyvdn.com:554/rtplive/R4_081",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs1.us-east-1.skyvdn.com:443/R4_081",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-55",
+    "mileMarker": "0.2",
+    "lat": 35.00108333,
+    "lng": -90.0022833,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.00108333,
+          "lng": -90.0022833
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3283,
+    "title": "I-240 north of Union Av.",
+    "description": "I-240 north of Union Av.",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_082.flv.png",
+    "httpVideoUrl": "https://mcleansfs1.us-east-1.skyvdn.com:443/rtplive/R4_082/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs1.us-east-1.skyvdn.com:443/rtplive/R4_082/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs1.us-east-1.skyvdn.com:1935/rtplive/R4_082",
+    "rtspVideoUrl": "rtsp://mcleansfs1.us-east-1.skyvdn.com:554/rtplive/R4_082",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs1.us-east-1.skyvdn.com:443/R4_082",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-240",
+    "mileMarker": "30.4",
+    "lat": 35.1421,
+    "lng": -90.0224667,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.1421,
+          "lng": -90.0224667
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3284,
+    "title": "I-240 @ Union",
+    "description": "I-240 @ Union",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_083.flv.png",
+    "httpVideoUrl": "https://mcleansfs1.us-east-1.skyvdn.com:443/rtplive/R4_083/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs1.us-east-1.skyvdn.com:443/rtplive/R4_083/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs1.us-east-1.skyvdn.com:1935/rtplive/R4_083",
+    "rtspVideoUrl": "rtsp://mcleansfs1.us-east-1.skyvdn.com:554/rtplive/R4_083",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs1.us-east-1.skyvdn.com:443/R4_083",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-240",
+    "mileMarker": "30",
+    "lat": 35.13788333,
+    "lng": -90.0243667,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.13788333,
+          "lng": -90.0243667
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3285,
+    "title": "I-240 @ Lamar Av.",
+    "description": "I-240 @ Lamar Av.",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_084.flv.png",
+    "httpVideoUrl": "https://mcleansfs1.us-east-1.skyvdn.com:443/rtplive/R4_084/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs1.us-east-1.skyvdn.com:443/rtplive/R4_084/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs1.us-east-1.skyvdn.com:1935/rtplive/R4_084",
+    "rtspVideoUrl": "rtsp://mcleansfs1.us-east-1.skyvdn.com:554/rtplive/R4_084",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs1.us-east-1.skyvdn.com:443/R4_084",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-240",
+    "mileMarker": "29.4",
+    "lat": 35.12975,
+    "lng": -90.0235,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.12975,
+          "lng": -90.0235
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3286,
+    "title": "I-240 south of Lamar",
+    "description": "I-240 south of Lamar",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_085.flv.png",
+    "httpVideoUrl": "https://mcleansfs1.us-east-1.skyvdn.com:443/rtplive/R4_085/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs1.us-east-1.skyvdn.com:443/rtplive/R4_085/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs1.us-east-1.skyvdn.com:1935/rtplive/R4_085",
+    "rtspVideoUrl": "rtsp://mcleansfs1.us-east-1.skyvdn.com:554/rtplive/R4_085",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs1.us-east-1.skyvdn.com:443/R4_085",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-240",
+    "mileMarker": "29",
+    "lat": 35.12328333,
+    "lng": -90.0257167,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.12328333,
+          "lng": -90.0257167
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3287,
+    "title": "I-240 north of S. Pkwy",
+    "description": "I-240 north of S. Pkwy",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_086.flv.png",
+    "httpVideoUrl": "https://mcleansfs1.us-east-1.skyvdn.com:443/rtplive/R4_086/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs1.us-east-1.skyvdn.com:443/rtplive/R4_086/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs1.us-east-1.skyvdn.com:1935/rtplive/R4_086",
+    "rtspVideoUrl": "rtsp://mcleansfs1.us-east-1.skyvdn.com:554/rtplive/R4_086",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs1.us-east-1.skyvdn.com:443/R4_086",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-240",
+    "mileMarker": "26.6",
+    "lat": 35.11778333,
+    "lng": -90.0262667,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.11778333,
+          "lng": -90.0262667
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3288,
+    "title": "I-240 @ South Parkway",
+    "description": "I-240 @ South Parkway",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_087.flv.png",
+    "httpVideoUrl": "https://mcleansfs1.us-east-1.skyvdn.com:443/rtplive/R4_087/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs1.us-east-1.skyvdn.com:443/rtplive/R4_087/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs1.us-east-1.skyvdn.com:1935/rtplive/R4_087",
+    "rtspVideoUrl": "rtsp://mcleansfs1.us-east-1.skyvdn.com:554/rtplive/R4_087",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs1.us-east-1.skyvdn.com:443/R4_087",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-240",
+    "mileMarker": "28",
+    "lat": 35.1101,
+    "lng": -90.0294,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.1101,
+          "lng": -90.0294
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3289,
+    "title": "I-240 south of S. Pkwy",
+    "description": "I-240 south of S. Pkwy",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_088.flv.png",
+    "httpVideoUrl": "https://mcleansfs1.us-east-1.skyvdn.com:443/rtplive/R4_088/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs1.us-east-1.skyvdn.com:443/rtplive/R4_088/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs1.us-east-1.skyvdn.com:1935/rtplive/R4_088",
+    "rtspVideoUrl": "rtsp://mcleansfs1.us-east-1.skyvdn.com:554/rtplive/R4_088",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs1.us-east-1.skyvdn.com:443/R4_088",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-240",
+    "mileMarker": "27.6",
+    "lat": 35.1012,
+    "lng": -90.02935,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.1012,
+          "lng": -90.02935
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3290,
+    "title": "I-240 north of Norris",
+    "description": "I-240 north of Norris",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_089.flv.png",
+    "httpVideoUrl": "https://mcleansfs1.us-east-1.skyvdn.com:443/rtplive/R4_089/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs1.us-east-1.skyvdn.com:443/rtplive/R4_089/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs1.us-east-1.skyvdn.com:1935/rtplive/R4_089",
+    "rtspVideoUrl": "rtsp://mcleansfs1.us-east-1.skyvdn.com:554/rtplive/R4_089",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs1.us-east-1.skyvdn.com:443/R4_089",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-240",
+    "mileMarker": "26.8",
+    "lat": 35.08921667,
+    "lng": -90.0252667,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.08921667,
+          "lng": -90.0252667
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3291,
+    "title": "I-240 north I-55 Jct.",
+    "description": "I-240 north I-55 Jct.",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_090.flv.png",
+    "httpVideoUrl": "https://mcleansfs1.us-east-1.skyvdn.com:443/rtplive/R4_090/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs1.us-east-1.skyvdn.com:443/rtplive/R4_090/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs1.us-east-1.skyvdn.com:1935/rtplive/R4_090",
+    "rtspVideoUrl": "rtsp://mcleansfs1.us-east-1.skyvdn.com:554/rtplive/R4_090",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs1.us-east-1.skyvdn.com:443/R4_090",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-240",
+    "mileMarker": "26.2",
+    "lat": 35.08325,
+    "lng": -90.0257833,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.08325,
+          "lng": -90.0257833
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3399,
+    "title": "I-40/ I-55 West of Ingram",
+    "description": "I-40/ I-55 West of Ingram",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_001.flv.png",
+    "httpVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_001/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_001/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs3.us-east-1.skyvdn.com:1935/rtplive/R4_001",
+    "rtspVideoUrl": "rtsp://mcleansfs3.us-east-1.skyvdn.com:554/rtplive/R4_001",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs3.us-east-1.skyvdn.com:443/R4_001",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "279",
+    "lat": 35.1612,
+    "lng": -90.1662,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.1612,
+          "lng": -90.1662
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3400,
+    "title": "I-40 /I-55 West of M.L. King Jr. Dr.",
+    "description": "I-40 /I-55 West of M.L. King Jr. Dr.",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_002.flv.png",
+    "httpVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_002/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_002/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs3.us-east-1.skyvdn.com:1935/rtplive/R4_002",
+    "rtspVideoUrl": "rtsp://mcleansfs3.us-east-1.skyvdn.com:554/rtplive/R4_002",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs3.us-east-1.skyvdn.com:443/R4_002",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "279.5",
+    "lat": 35.157533,
+    "lng": -90.156683,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.157533,
+          "lng": -90.156683
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3401,
+    "title": "I-40 @ I-40/I-55 Eastern Jct.",
+    "description": "I-40 @ I-40/I-55 Eastern Jct.",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_003.flv.png",
+    "httpVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_003/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_003/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs3.us-east-1.skyvdn.com:1935/rtplive/R4_003",
+    "rtspVideoUrl": "rtsp://mcleansfs3.us-east-1.skyvdn.com:554/rtplive/R4_003",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs3.us-east-1.skyvdn.com:443/R4_003",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "280",
+    "lat": 35.154817,
+    "lng": -90.148006,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.154817,
+          "lng": -90.148006
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3402,
+    "title": "I-40 @ Mound City Rd.",
+    "description": "I-40 @ Mound City Rd.",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_004.flv.png",
+    "httpVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_004/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_004/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs3.us-east-1.skyvdn.com:1935/rtplive/R4_004",
+    "rtspVideoUrl": "rtsp://mcleansfs3.us-east-1.skyvdn.com:554/rtplive/R4_004",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs3.us-east-1.skyvdn.com:443/R4_004",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "280.5",
+    "lat": 35.15635,
+    "lng": -90.13705,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.15635,
+          "lng": -90.13705
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3403,
+    "title": "I-40 east of Mound City Rd.",
+    "description": "I-40 east of Mound City Rd.",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_005.flv.png",
+    "httpVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_005/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_005/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs3.us-east-1.skyvdn.com:1935/rtplive/R4_005",
+    "rtspVideoUrl": "rtsp://mcleansfs3.us-east-1.skyvdn.com:554/rtplive/R4_005",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs3.us-east-1.skyvdn.com:443/R4_005",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "281",
+    "lat": 35.15703333,
+    "lng": -90.1270833,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.15703333,
+          "lng": -90.1270833
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3404,
+    "title": "I-40 West of Weigh Station",
+    "description": "I-40 West of Weigh Station",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_006.flv.png",
+    "httpVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_006/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_006/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs3.us-east-1.skyvdn.com:1935/rtplive/R4_006",
+    "rtspVideoUrl": "rtsp://mcleansfs3.us-east-1.skyvdn.com:554/rtplive/R4_006",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs3.us-east-1.skyvdn.com:443/R4_006",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "283",
+    "lat": 35.153778,
+    "lng": -90.105608,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.153778,
+          "lng": -90.105608
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3405,
+    "title": "I-40 near Weigh Station",
+    "description": "I-40 near Weigh Station",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_007.flv.png",
+    "httpVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_007/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_007/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs3.us-east-1.skyvdn.com:1935/rtplive/R4_007",
+    "rtspVideoUrl": "rtsp://mcleansfs3.us-east-1.skyvdn.com:554/rtplive/R4_007",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs3.us-east-1.skyvdn.com:443/R4_007",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "283",
+    "lat": 35.1525,
+    "lng": -90.0977333,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.1525,
+          "lng": -90.0977333
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3406,
+    "title": "I-40 West of MS River",
+    "description": "I-40 West of MS River",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_008.flv.png",
+    "httpVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_008/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_008/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs3.us-east-1.skyvdn.com:1935/rtplive/R4_008",
+    "rtspVideoUrl": "rtsp://mcleansfs3.us-east-1.skyvdn.com:554/rtplive/R4_008",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs3.us-east-1.skyvdn.com:443/R4_008",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "284",
+    "lat": 35.15295,
+    "lng": -90.0783167,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.15295,
+          "lng": -90.0783167
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3407,
+    "title": "I-40 @ west end MS. River arch bridge",
+    "description": "I-40 @ west end MS. River arch bridge",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_009.flv.png",
+    "httpVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_009/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_009/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs3.us-east-1.skyvdn.com:1935/rtplive/R4_009",
+    "rtspVideoUrl": "rtsp://mcleansfs3.us-east-1.skyvdn.com:554/rtplive/R4_009",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs3.us-east-1.skyvdn.com:443/R4_009",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "0",
+    "lat": 35.15305,
+    "lng": -90.06515,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.15305,
+          "lng": -90.06515
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3408,
+    "title": "I-40 @ east end MS. River bridge",
+    "description": "I-40 @ east end MS. River bridge",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_010.flv.png",
+    "httpVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_010/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_010/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs3.us-east-1.skyvdn.com:1935/rtplive/R4_010",
+    "rtspVideoUrl": "rtsp://mcleansfs3.us-east-1.skyvdn.com:554/rtplive/R4_010",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs3.us-east-1.skyvdn.com:443/R4_010",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "0.2",
+    "lat": 35.1531,
+    "lng": -90.0582333,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.1531,
+          "lng": -90.0582333
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3409,
+    "title": "I-40 @ Sycamore View",
+    "description": "I-40 @ Sycamore View",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_051.flv.png",
+    "httpVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_051/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_051/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs3.us-east-1.skyvdn.com:1935/rtplive/R4_051",
+    "rtspVideoUrl": "rtsp://mcleansfs3.us-east-1.skyvdn.com:554/rtplive/R4_051",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs3.us-east-1.skyvdn.com:443/R4_051",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "12.2",
+    "lat": 35.16523333,
+    "lng": -89.8609167,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.16523333,
+          "lng": -89.8609167
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3410,
+    "title": "I-40 bt. Sycamore View & Whitten",
+    "description": "I-40 bt. Sycamore View & Whitten",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_052.flv.png",
+    "httpVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_052/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_052/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs3.us-east-1.skyvdn.com:1935/rtplive/R4_052",
+    "rtspVideoUrl": "rtsp://mcleansfs3.us-east-1.skyvdn.com:554/rtplive/R4_052",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs3.us-east-1.skyvdn.com:443/R4_052",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "13",
+    "lat": 35.17006667,
+    "lng": -89.8483333,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.17006667,
+          "lng": -89.8483333
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3411,
+    "title": "I-40 @ Whitten",
+    "description": "I-40 @ Whitten",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_053.flv.png",
+    "httpVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_053/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_053/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs3.us-east-1.skyvdn.com:1935/rtplive/R4_053",
+    "rtspVideoUrl": "rtsp://mcleansfs3.us-east-1.skyvdn.com:554/rtplive/R4_053",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs3.us-east-1.skyvdn.com:443/R4_053",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "13.8",
+    "lat": 35.17488333,
+    "lng": -89.8362667,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.17488333,
+          "lng": -89.8362667
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3412,
+    "title": "I-40  bt. Whitten & Appling",
+    "description": "I-40  bt. Whitten & Appling",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_054.flv.png",
+    "httpVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_054/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_054/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs3.us-east-1.skyvdn.com:1935/rtplive/R4_054",
+    "rtspVideoUrl": "rtsp://mcleansfs3.us-east-1.skyvdn.com:554/rtplive/R4_054",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs3.us-east-1.skyvdn.com:443/R4_054",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "14.6",
+    "lat": 35.18115,
+    "lng": -89.822767,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.18115,
+          "lng": -89.822767
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3413,
+    "title": "I-40  @ Appling",
+    "description": "I-40  @ Appling",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_055.flv.png",
+    "httpVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_055/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_055/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs3.us-east-1.skyvdn.com:1935/rtplive/R4_055",
+    "rtspVideoUrl": "rtsp://mcleansfs3.us-east-1.skyvdn.com:554/rtplive/R4_055",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs3.us-east-1.skyvdn.com:443/R4_055",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "15.2",
+    "lat": 35.18523333,
+    "lng": -89.8132833,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.18523333,
+          "lng": -89.8132833
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3414,
+    "title": "I-40 bt.Appling & Germantown Rd.",
+    "description": "I-40 bt.Appling & Germantown Rd.",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_056.flv.png",
+    "httpVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_056/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_056/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs3.us-east-1.skyvdn.com:1935/rtplive/R4_056",
+    "rtspVideoUrl": "rtsp://mcleansfs3.us-east-1.skyvdn.com:554/rtplive/R4_056",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs3.us-east-1.skyvdn.com:443/R4_056",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "15.8",
+    "lat": 35.19001667,
+    "lng": -89.803,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.19001667,
+          "lng": -89.803
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3415,
+    "title": "I-40 @ Germantown Rd.",
+    "description": "I-40 @ Germantown Rd.",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_057.flv.png",
+    "httpVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_057/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_057/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs3.us-east-1.skyvdn.com:1935/rtplive/R4_057",
+    "rtspVideoUrl": "rtsp://mcleansfs3.us-east-1.skyvdn.com:554/rtplive/R4_057",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs3.us-east-1.skyvdn.com:443/R4_057",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "0",
+    "lat": 35.19446667,
+    "lng": -89.7928333,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.19446667,
+          "lng": -89.7928333
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3416,
+    "title": "I-40 bt. Germantown Rd. & US 64, Stage Rd.",
+    "description": "I-40 bt. Germantown Rd. & US 64, Stage Rd.",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_058.flv.png",
+    "httpVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_058/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_058/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs3.us-east-1.skyvdn.com:1935/rtplive/R4_058",
+    "rtspVideoUrl": "rtsp://mcleansfs3.us-east-1.skyvdn.com:554/rtplive/R4_058",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs3.us-east-1.skyvdn.com:443/R4_058",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "0",
+    "lat": 35.19978333,
+    "lng": -89.7810833,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.19978333,
+          "lng": -89.7810833
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3417,
+    "title": "I-40 @ US 64",
+    "description": "I-40 @ US 64",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_059.flv.png",
+    "httpVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_059/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_059/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs3.us-east-1.skyvdn.com:1935/rtplive/R4_059",
+    "rtspVideoUrl": "rtsp://mcleansfs3.us-east-1.skyvdn.com:554/rtplive/R4_059",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs3.us-east-1.skyvdn.com:443/R4_059",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "0",
+    "lat": 35.203833,
+    "lng": -89.772756,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.203833,
+          "lng": -89.772756
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3418,
+    "title": "I-40 bt. US 64 & Canada Rd.",
+    "description": "I-40 bt. US 64 & Canada Rd.",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_060.flv.png",
+    "httpVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_060/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_060/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs3.us-east-1.skyvdn.com:1935/rtplive/R4_060",
+    "rtspVideoUrl": "rtsp://mcleansfs3.us-east-1.skyvdn.com:554/rtplive/R4_060",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs3.us-east-1.skyvdn.com:443/R4_060",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "0",
+    "lat": 35.21233333,
+    "lng": -89.7559833,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.21233333,
+          "lng": -89.7559833
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3419,
+    "title": "I-240 at SR 385 Cam A",
+    "description": "I-240 at SR 385 Cam A",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_101.flv.png",
+    "httpVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_101/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_101/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs3.us-east-1.skyvdn.com:1935/rtplive/R4_101",
+    "rtspVideoUrl": "rtsp://mcleansfs3.us-east-1.skyvdn.com:554/rtplive/R4_101",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs3.us-east-1.skyvdn.com:443/R4_101",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-240",
+    "mileMarker": "17",
+    "lat": 35.0841,
+    "lng": -89.8796,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.0841,
+          "lng": -89.8796
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3420,
+    "title": "I-240 at SR 385 Cam B",
+    "description": "I-240 at SR 385 Cam B",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_102.flv.png",
+    "httpVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_102/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_102/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs3.us-east-1.skyvdn.com:1935/rtplive/R4_102",
+    "rtspVideoUrl": "rtsp://mcleansfs3.us-east-1.skyvdn.com:554/rtplive/R4_102",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs3.us-east-1.skyvdn.com:443/R4_102",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-240",
+    "mileMarker": "0",
+    "lat": 35.0834,
+    "lng": -89.8771,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.0834,
+          "lng": -89.8771
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3421,
+    "title": "I-240 @ Quince Overpass",
+    "description": "I-240 @ Quince Overpass",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_103.flv.png",
+    "httpVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_103/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_103/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs3.us-east-1.skyvdn.com:1935/rtplive/R4_103",
+    "rtspVideoUrl": "rtsp://mcleansfs3.us-east-1.skyvdn.com:554/rtplive/R4_103",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs3.us-east-1.skyvdn.com:443/R4_103",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-240",
+    "mileMarker": "16.4",
+    "lat": 35.08961667,
+    "lng": -89.8707,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.08961667,
+          "lng": -89.8707
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3422,
+    "title": "I-240 @ Poplar",
+    "description": "I-240 @ Poplar",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_104.flv.png",
+    "httpVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_104/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_104/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs3.us-east-1.skyvdn.com:1935/rtplive/R4_104",
+    "rtspVideoUrl": "rtsp://mcleansfs3.us-east-1.skyvdn.com:554/rtplive/R4_104",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs3.us-east-1.skyvdn.com:443/R4_104",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-240",
+    "mileMarker": "15.4",
+    "lat": 35.10345,
+    "lng": -89.8704833,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.10345,
+          "lng": -89.8704833
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3423,
+    "title": "I-240 bt. Poplar & Walnut Grove",
+    "description": "I-240 bt. Poplar & Walnut Grove",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_105.flv.png",
+    "httpVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_105/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_105/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs3.us-east-1.skyvdn.com:1935/rtplive/R4_105",
+    "rtspVideoUrl": "rtsp://mcleansfs3.us-east-1.skyvdn.com:554/rtplive/R4_105",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs3.us-east-1.skyvdn.com:443/R4_105",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-240",
+    "mileMarker": "14.6",
+    "lat": 35.11716667,
+    "lng": -89.8695167,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.11716667,
+          "lng": -89.8695167
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3424,
+    "title": "I-240 @ Walnut Grove",
+    "description": "I-240 @ Walnut Grove",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_106.flv.png",
+    "httpVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_106/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_106/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs3.us-east-1.skyvdn.com:1935/rtplive/R4_106",
+    "rtspVideoUrl": "rtsp://mcleansfs3.us-east-1.skyvdn.com:554/rtplive/R4_106",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs3.us-east-1.skyvdn.com:443/R4_106",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-240",
+    "mileMarker": "13.6",
+    "lat": 35.1308,
+    "lng": -89.86725,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.1308,
+          "lng": -89.86725
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3425,
+    "title": "I-240 south of I-40/I-240/Sam Cooper Jct.",
+    "description": "I-240 south of I-40/I-240/Sam Cooper Jct.",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_107.flv.png",
+    "httpVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_107/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_107/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs3.us-east-1.skyvdn.com:1935/rtplive/R4_107",
+    "rtspVideoUrl": "rtsp://mcleansfs3.us-east-1.skyvdn.com:554/rtplive/R4_107",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs3.us-east-1.skyvdn.com:443/R4_107",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-240",
+    "mileMarker": "12.8",
+    "lat": 35.1405,
+    "lng": -89.8704,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.1405,
+          "lng": -89.8704
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3426,
+    "title": "SR 385 @ Hickory Hill",
+    "description": "SR 385 @ Hickory Hill",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_108.flv.png",
+    "httpVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_108/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_108/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs3.us-east-1.skyvdn.com:1935/rtplive/R4_108",
+    "rtspVideoUrl": "rtsp://mcleansfs3.us-east-1.skyvdn.com:554/rtplive/R4_108",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs3.us-east-1.skyvdn.com:443/R4_108",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "385",
+    "mileMarker": "1.2",
+    "lat": 35.07448333,
+    "lng": -89.8616333,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.07448333,
+          "lng": -89.8616333
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3427,
+    "title": "SR 385 @ Kirby",
+    "description": "SR 385 @ Kirby",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_109.flv.png",
+    "httpVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_109/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_109/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs3.us-east-1.skyvdn.com:1935/rtplive/R4_109",
+    "rtspVideoUrl": "rtsp://mcleansfs3.us-east-1.skyvdn.com:554/rtplive/R4_109",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs3.us-east-1.skyvdn.com:443/R4_109",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "385",
+    "mileMarker": "2.2",
+    "lat": 35.06718333,
+    "lng": -89.8439833,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.06718333,
+          "lng": -89.8439833
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3428,
+    "title": "SR 385 bt. Kirby &amp; Riverdale",
+    "description": "SR 385 bt. Kirby &amp; Riverdale",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_110.flv.png",
+    "httpVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_110/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs3.us-east-1.skyvdn.com:443/rtplive/R4_110/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs3.us-east-1.skyvdn.com:1935/rtplive/R4_110",
+    "rtspVideoUrl": "rtsp://mcleansfs3.us-east-1.skyvdn.com:554/rtplive/R4_110",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs3.us-east-1.skyvdn.com:443/R4_110",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "385",
+    "mileMarker": "3.2",
+    "lat": 35.05881667,
+    "lng": -89.83525,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.05881667,
+          "lng": -89.83525
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3505,
+    "title": "I-40 @ Riverside Dr.",
+    "description": "I-40 @ Riverside Dr.",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_011.flv.png",
+    "httpVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_011/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_011/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs4.us-east-1.skyvdn.com:1935/rtplive/R4_011",
+    "rtspVideoUrl": "rtsp://mcleansfs4.us-east-1.skyvdn.com:554/rtplive/R4_011",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs4.us-east-1.skyvdn.com:443/R4_011",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "0.6",
+    "lat": 35.1533,
+    "lng": -90.0514833,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.1533,
+          "lng": -90.0514833
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3506,
+    "title": "I-40 @ Danny Thomas",
+    "description": "I-40 @ Danny Thomas",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_012.flv.png",
+    "httpVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_012/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_012/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs4.us-east-1.skyvdn.com:1935/rtplive/R4_012",
+    "rtspVideoUrl": "rtsp://mcleansfs4.us-east-1.skyvdn.com:554/rtplive/R4_012",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs4.us-east-1.skyvdn.com:443/R4_012",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "0",
+    "lat": 35.1515,
+    "lng": -90.0420333,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.1515,
+          "lng": -90.0420333
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3507,
+    "title": "I-40 @ I-240 Jct.",
+    "description": "I-40 @ I-240 Jct.",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_013.flv.png",
+    "httpVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_013/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_013/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs4.us-east-1.skyvdn.com:1935/rtplive/R4_013",
+    "rtspVideoUrl": "rtsp://mcleansfs4.us-east-1.skyvdn.com:554/rtplive/R4_013",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs4.us-east-1.skyvdn.com:443/R4_013",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "0",
+    "lat": 35.14996667,
+    "lng": -90.02985,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.14996667,
+          "lng": -90.02985
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3508,
+    "title": "I-55 @ Broadway",
+    "description": "I-55 @ Broadway",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_014.flv.png",
+    "httpVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_014/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_014/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs4.us-east-1.skyvdn.com:1935/rtplive/R4_014",
+    "rtspVideoUrl": "rtsp://mcleansfs4.us-east-1.skyvdn.com:554/rtplive/R4_014",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs4.us-east-1.skyvdn.com:443/R4_014",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-55",
+    "mileMarker": "0",
+    "lat": 35.14746667,
+    "lng": -90.1307667,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.14746667,
+          "lng": -90.1307667
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3509,
+    "title": "I-55 @ weigh station mm2",
+    "description": "I-55 @ weigh station mm2",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_015.flv.png",
+    "httpVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_015/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_015/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs4.us-east-1.skyvdn.com:1935/rtplive/R4_015",
+    "rtspVideoUrl": "rtsp://mcleansfs4.us-east-1.skyvdn.com:554/rtplive/R4_015",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs4.us-east-1.skyvdn.com:443/R4_015",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-55",
+    "mileMarker": "2",
+    "lat": 35.1406,
+    "lng": -90.10595,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.1406,
+          "lng": -90.10595
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3510,
+    "title": "I-55 South of Bridgeport Rd.",
+    "description": "I-55 South of Bridgeport Rd.",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_016.flv.png",
+    "httpVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_016/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_016/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs4.us-east-1.skyvdn.com:1935/rtplive/R4_016",
+    "rtspVideoUrl": "rtsp://mcleansfs4.us-east-1.skyvdn.com:554/rtplive/R4_016",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs4.us-east-1.skyvdn.com:443/R4_016",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-55",
+    "mileMarker": "0",
+    "lat": 35.13528333,
+    "lng": -90.0864167,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.13528333,
+          "lng": -90.0864167
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3511,
+    "title": "I-55 North of MS River",
+    "description": "I-55 North of MS River",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_017.flv.png",
+    "httpVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_017/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_017/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs4.us-east-1.skyvdn.com:1935/rtplive/R4_017",
+    "rtspVideoUrl": "rtsp://mcleansfs4.us-east-1.skyvdn.com:554/rtplive/R4_017",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs4.us-east-1.skyvdn.com:443/R4_017",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-55",
+    "mileMarker": "0",
+    "lat": 35.13275,
+    "lng": -90.0824667,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.13275,
+          "lng": -90.0824667
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3512,
+    "title": "I-55 North end MS River Bridge",
+    "description": "I-55 North end MS River Bridge",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_018.flv.png",
+    "httpVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_018/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_018/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs4.us-east-1.skyvdn.com:1935/rtplive/R4_018",
+    "rtspVideoUrl": "rtsp://mcleansfs4.us-east-1.skyvdn.com:554/rtplive/R4_018",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs4.us-east-1.skyvdn.com:443/R4_018",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-55",
+    "mileMarker": "0.2",
+    "lat": 35.12986667,
+    "lng": -90.0788,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.12986667,
+          "lng": -90.0788
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3513,
+    "title": "I-55 MS River near AR/ TN state line",
+    "description": "I-55 MS River near AR/ TN state line",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_019.flv.png",
+    "httpVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_019/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_019/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs4.us-east-1.skyvdn.com:1935/rtplive/R4_019",
+    "rtspVideoUrl": "rtsp://mcleansfs4.us-east-1.skyvdn.com:554/rtplive/R4_019",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs4.us-east-1.skyvdn.com:443/R4_019",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-55",
+    "mileMarker": "12.4",
+    "lat": 35.12755,
+    "lng": -90.0757667,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.12755,
+          "lng": -90.0757667
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3514,
+    "title": "I-55 South end of MS River bridge",
+    "description": "I-55 South end of MS River bridge",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_020.flv.png",
+    "httpVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_020/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_020/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs4.us-east-1.skyvdn.com:1935/rtplive/R4_020",
+    "rtspVideoUrl": "rtsp://mcleansfs4.us-east-1.skyvdn.com:554/rtplive/R4_020",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs4.us-east-1.skyvdn.com:443/R4_020",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-55",
+    "mileMarker": "12.2",
+    "lat": 35.12541667,
+    "lng": -90.0730833,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.12541667,
+          "lng": -90.0730833
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3515,
+    "title": "I-40 @ Canada Rd.",
+    "description": "I-40 @ Canada Rd.",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_061.flv.png",
+    "httpVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_061/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_061/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs4.us-east-1.skyvdn.com:1935/rtplive/R4_061",
+    "rtspVideoUrl": "rtsp://mcleansfs4.us-east-1.skyvdn.com:554/rtplive/R4_061",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs4.us-east-1.skyvdn.com:443/R4_061",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "19.6",
+    "lat": 35.219433,
+    "lng": -89.743033,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.219433,
+          "lng": -89.743033
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3516,
+    "title": "Sam Cooper west of Highland",
+    "description": "Sam Cooper west of Highland",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_062.flv.png",
+    "httpVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_062/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_062/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs4.us-east-1.skyvdn.com:1935/rtplive/R4_062",
+    "rtspVideoUrl": "rtsp://mcleansfs4.us-east-1.skyvdn.com:554/rtplive/R4_062",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs4.us-east-1.skyvdn.com:443/R4_062",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "Sam Cooper",
+    "mileMarker": "0",
+    "lat": 35.148,
+    "lng": -89.9506833,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.148,
+          "lng": -89.9506833
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3517,
+    "title": "Sam Cooper bt. Highland & Graham",
+    "description": "Sam Cooper bt. Highland & Graham",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_063.flv.png",
+    "httpVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_063/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_063/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs4.us-east-1.skyvdn.com:1935/rtplive/R4_063",
+    "rtspVideoUrl": "rtsp://mcleansfs4.us-east-1.skyvdn.com:554/rtplive/R4_063",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs4.us-east-1.skyvdn.com:443/R4_063",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "Sam Cooper",
+    "mileMarker": "0",
+    "lat": 35.147,
+    "lng": -89.93725,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.147,
+          "lng": -89.93725
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3518,
+    "title": "Sam Cooper west of Graham",
+    "description": "Sam Cooper west of Graham",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_064.flv.png",
+    "httpVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_064/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_064/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs4.us-east-1.skyvdn.com:1935/rtplive/R4_064",
+    "rtspVideoUrl": "rtsp://mcleansfs4.us-east-1.skyvdn.com:554/rtplive/R4_064",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs4.us-east-1.skyvdn.com:443/R4_064",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "Sam Cooper",
+    "mileMarker": "0",
+    "lat": 35.146108,
+    "lng": -89.922125,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.146108,
+          "lng": -89.922125
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3519,
+    "title": "Sam Cooper @ Perkins",
+    "description": "Sam Cooper @ Perkins",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_065.flv.png",
+    "httpVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_065/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_065/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs4.us-east-1.skyvdn.com:1935/rtplive/R4_065",
+    "rtspVideoUrl": "rtsp://mcleansfs4.us-east-1.skyvdn.com:554/rtplive/R4_065",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs4.us-east-1.skyvdn.com:443/R4_065",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "Sam Cooper",
+    "mileMarker": "0",
+    "lat": 35.145869,
+    "lng": -89.905325,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.145869,
+          "lng": -89.905325
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3520,
+    "title": "Sam Cooper @ I-40/I-240",
+    "description": "Sam Cooper @ I-40/I-240",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_066.flv.png",
+    "httpVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_066/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_066/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs4.us-east-1.skyvdn.com:1935/rtplive/R4_066",
+    "rtspVideoUrl": "rtsp://mcleansfs4.us-east-1.skyvdn.com:554/rtplive/R4_066",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs4.us-east-1.skyvdn.com:443/R4_066",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "Sam Cooper",
+    "mileMarker": "0",
+    "lat": 35.1486,
+    "lng": -89.88855,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.1486,
+          "lng": -89.88855
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3521,
+    "title": "I-55 south of S. Pkwy.",
+    "description": "I-55 south of S. Pkwy.",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_067.flv.png",
+    "httpVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_067/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_067/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs4.us-east-1.skyvdn.com:1935/rtplive/R4_067",
+    "rtspVideoUrl": "rtsp://mcleansfs4.us-east-1.skyvdn.com:554/rtplive/R4_067",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs4.us-east-1.skyvdn.com:443/R4_067",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-55",
+    "mileMarker": "10.2",
+    "lat": 35.10201667,
+    "lng": -90.0764667,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.10201667,
+          "lng": -90.0764667
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3522,
+    "title": "I-55 @ Mallory",
+    "description": "I-55 @ Mallory",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_068.flv.png",
+    "httpVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_068/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_068/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs4.us-east-1.skyvdn.com:1935/rtplive/R4_068",
+    "rtspVideoUrl": "rtsp://mcleansfs4.us-east-1.skyvdn.com:554/rtplive/R4_068",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs4.us-east-1.skyvdn.com:443/R4_068",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-55",
+    "mileMarker": "0",
+    "lat": 35.08683333,
+    "lng": -90.0769,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.08683333,
+          "lng": -90.0769
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3523,
+    "title": "I-55 bt. Mallory & US61, S 3rd St.",
+    "description": "I-55 bt. Mallory & US61, S 3rd St.",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_069.flv.png",
+    "httpVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_069/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_069/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs4.us-east-1.skyvdn.com:1935/rtplive/R4_069",
+    "rtspVideoUrl": "rtsp://mcleansfs4.us-east-1.skyvdn.com:554/rtplive/R4_069",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs4.us-east-1.skyvdn.com:443/R4_069",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-55",
+    "mileMarker": "8.4",
+    "lat": 35.0796,
+    "lng": -90.069,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.0796,
+          "lng": -90.069
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3524,
+    "title": "I-55 @ 3rd St",
+    "description": "I-55 @ 3rd St",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_070.flv.png",
+    "httpVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_070/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_070/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs4.us-east-1.skyvdn.com:1935/rtplive/R4_070",
+    "rtspVideoUrl": "rtsp://mcleansfs4.us-east-1.skyvdn.com:554/rtplive/R4_070",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs4.us-east-1.skyvdn.com:443/R4_070",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-55",
+    "mileMarker": "0",
+    "lat": 35.07925,
+    "lng": -90.0574833,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.07925,
+          "lng": -90.0574833
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3525,
+    "title": "SR 385 @ Riverdale",
+    "description": "SR 385 @ Riverdale",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_111.flv.png",
+    "httpVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_111/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_111/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs4.us-east-1.skyvdn.com:1935/rtplive/R4_111",
+    "rtspVideoUrl": "rtsp://mcleansfs4.us-east-1.skyvdn.com:554/rtplive/R4_111",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs4.us-east-1.skyvdn.com:443/R4_111",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "385",
+    "mileMarker": "3.6",
+    "lat": 35.054817,
+    "lng": -89.8296,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.054817,
+          "lng": -89.8296
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3526,
+    "title": "SR 385 @ Winchester",
+    "description": "SR 385 @ Winchester",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_112.flv.png",
+    "httpVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_112/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_112/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs4.us-east-1.skyvdn.com:1935/rtplive/R4_112",
+    "rtspVideoUrl": "rtsp://mcleansfs4.us-east-1.skyvdn.com:554/rtplive/R4_112",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs4.us-east-1.skyvdn.com:443/R4_112",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "385",
+    "mileMarker": "4.6",
+    "lat": 35.05233,
+    "lng": -89.8103,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.05233,
+          "lng": -89.8103
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3527,
+    "title": "SR 385 bt. Winchester & Hacks Cross",
+    "description": "SR 385 bt. Winchester & Hacks Cross",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_113.flv.png",
+    "httpVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_113/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_113/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs4.us-east-1.skyvdn.com:1935/rtplive/R4_113",
+    "rtspVideoUrl": "rtsp://mcleansfs4.us-east-1.skyvdn.com:554/rtplive/R4_113",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs4.us-east-1.skyvdn.com:443/R4_113",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "385",
+    "mileMarker": "5.2",
+    "lat": 35.04396667,
+    "lng": -89.8079833,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.04396667,
+          "lng": -89.8079833
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3528,
+    "title": "SR 385 @ Hacks Cross",
+    "description": "SR 385 @ Hacks Cross",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_114.flv.png",
+    "httpVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_114/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_114/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs4.us-east-1.skyvdn.com:1935/rtplive/R4_114",
+    "rtspVideoUrl": "rtsp://mcleansfs4.us-east-1.skyvdn.com:554/rtplive/R4_114",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs4.us-east-1.skyvdn.com:443/R4_114",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "385",
+    "mileMarker": "6",
+    "lat": 35.03755,
+    "lng": -89.79675,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.03755,
+          "lng": -89.79675
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3529,
+    "title": "SR 385 bt. Hacks Cross & Forest Hill Irene",
+    "description": "SR 385 bt. Hacks Cross & Forest Hill Irene",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_115.flv.png",
+    "httpVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_115/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_115/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs4.us-east-1.skyvdn.com:1935/rtplive/R4_115",
+    "rtspVideoUrl": "rtsp://mcleansfs4.us-east-1.skyvdn.com:554/rtplive/R4_115",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs4.us-east-1.skyvdn.com:443/R4_115",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "385",
+    "mileMarker": "7",
+    "lat": 35.0307,
+    "lng": -89.7827333,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.0307,
+          "lng": -89.7827333
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3530,
+    "title": "I-40 EB E/O Canada Rd. Mile Marker 21",
+    "description": "I-40 EB E/O Canada Rd. Mile Marker 21",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_162.flv.png",
+    "httpVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_162/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_162/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs4.us-east-1.skyvdn.com:1935/rtplive/R4_162",
+    "rtspVideoUrl": "rtsp://mcleansfs4.us-east-1.skyvdn.com:554/rtplive/R4_162",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs4.us-east-1.skyvdn.com:443/R4_162",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "22.5",
+    "lat": 35.229569,
+    "lng": -89.725933,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.229569,
+          "lng": -89.725933
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3531,
+    "title": "I-40 at Mile Marker 22",
+    "description": "I-40 at Mile Marker 22",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_163.flv.png",
+    "httpVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_163/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_163/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs4.us-east-1.skyvdn.com:1935/rtplive/R4_163",
+    "rtspVideoUrl": "rtsp://mcleansfs4.us-east-1.skyvdn.com:554/rtplive/R4_163",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs4.us-east-1.skyvdn.com:443/R4_163",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "22",
+    "lat": 35.237292,
+    "lng": -89.713747,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.237292,
+          "lng": -89.713747
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3532,
+    "title": "I-40 EB at Chambers Chapel Rd at Mile Marker 22.9",
+    "description": "I-40 EB at Chambers Chapel Rd at Mile Marker 22.9",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_164.flv.png",
+    "httpVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_164/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_164/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs4.us-east-1.skyvdn.com:1935/rtplive/R4_164",
+    "rtspVideoUrl": "rtsp://mcleansfs4.us-east-1.skyvdn.com:554/rtplive/R4_164",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs4.us-east-1.skyvdn.com:443/R4_164",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "22.9",
+    "lat": 35.243886,
+    "lng": -89.699817,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.243886,
+          "lng": -89.699817
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3533,
+    "title": "I-40W West of SR 385 at Mile Marker 24.4",
+    "description": "I-40W West of SR 385 at Mile Marker 24.4",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_165.flv.png",
+    "httpVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_165/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_165/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs4.us-east-1.skyvdn.com:1935/rtplive/R4_165",
+    "rtspVideoUrl": "rtsp://mcleansfs4.us-east-1.skyvdn.com:554/rtplive/R4_165",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs4.us-east-1.skyvdn.com:443/R4_165",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "24.4",
+    "lat": 35.257592,
+    "lng": -89.678625,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.257592,
+          "lng": -89.678625
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3534,
+    "title": "I-40 WB East of SR385 NB Mile Marker 24.4",
+    "description": "I-40 WB East of SR385 NB Mile Marker 24.4",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_166.flv.png",
+    "httpVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_166/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_166/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs4.us-east-1.skyvdn.com:1935/rtplive/R4_166",
+    "rtspVideoUrl": "rtsp://mcleansfs4.us-east-1.skyvdn.com:554/rtplive/R4_166",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs4.us-east-1.skyvdn.com:443/R4_166",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "24.4",
+    "lat": 35.256631,
+    "lng": -89.676903,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.256631,
+          "lng": -89.676903
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3535,
+    "title": "I-40 at ST 205 Mile Marker 25.2",
+    "description": "I-40 at ST 205 Mile Marker 25.2",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_167.flv.png",
+    "httpVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_167/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_167/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs4.us-east-1.skyvdn.com:1935/rtplive/R4_167",
+    "rtspVideoUrl": "rtsp://mcleansfs4.us-east-1.skyvdn.com:554/rtplive/R4_167",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs4.us-east-1.skyvdn.com:443/R4_167",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "25.2",
+    "lat": 35.262653,
+    "lng": -89.665497,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.262653,
+          "lng": -89.665497
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3536,
+    "title": "I-40 East of SR 205 Mile Marker 26.2",
+    "description": "I-40 East of SR 205 Mile Marker 26.2",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_168.flv.png",
+    "httpVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_168/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_168/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs4.us-east-1.skyvdn.com:1935/rtplive/R4_168",
+    "rtspVideoUrl": "rtsp://mcleansfs4.us-east-1.skyvdn.com:554/rtplive/R4_168",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs4.us-east-1.skyvdn.com:443/R4_168",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "26.2",
+    "lat": 35.270014,
+    "lng": -89.650603,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.270014,
+          "lng": -89.650603
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3537,
+    "title": "I-40 at Fayette County Line Mile Marker 27.2",
+    "description": "I-40 at Fayette County Line Mile Marker 27.2",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_169.flv.png",
+    "httpVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_169/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_169/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs4.us-east-1.skyvdn.com:1935/rtplive/R4_169",
+    "rtspVideoUrl": "rtsp://mcleansfs4.us-east-1.skyvdn.com:554/rtplive/R4_169",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs4.us-east-1.skyvdn.com:443/R4_169",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "27.2",
+    "lat": 35.278681,
+    "lng": -89.634175,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.278681,
+          "lng": -89.634175
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3538,
+    "title": "I-40 West of SR 196 Mile Marker 28.2",
+    "description": "I-40 West of SR 196 Mile Marker 28.2",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_170.flv.png",
+    "httpVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_170/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_170/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs4.us-east-1.skyvdn.com:1935/rtplive/R4_170",
+    "rtspVideoUrl": "rtsp://mcleansfs4.us-east-1.skyvdn.com:554/rtplive/R4_170",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs4.us-east-1.skyvdn.com:443/R4_170",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "28.2",
+    "lat": 35.287453,
+    "lng": -89.616208,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.287453,
+          "lng": -89.616208
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 3539,
+    "title": "SR 385 @ Mile Marker 00.1",
+    "description": "SR 385 @ Mile Marker 00.1",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_173.flv.png",
+    "httpVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_173/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_173/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs4.us-east-1.skyvdn.com:1935/rtplive/R4_173",
+    "rtspVideoUrl": "rtsp://mcleansfs4.us-east-1.skyvdn.com:554/rtplive/R4_173",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs4.us-east-1.skyvdn.com:443/R4_173",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "SR 385",
+    "mileMarker": "0.1",
+    "lat": 35.08274,
+    "lng": -89.878008,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.08274,
+          "lng": -89.878008
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 4219,
+    "title": "I-55 @ Crump Blvd/ Riverside",
+    "description": "I-55 @ Crump Blvd/ Riverside",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_021.flv.png",
+    "httpVideoUrl": "https://mcleansfs5.us-east-1.skyvdn.com:443/rtplive/R4_021/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs5.us-east-1.skyvdn.com:443/rtplive/R4_021/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs5.us-east-1.skyvdn.com:1935/rtplive/R4_021",
+    "rtspVideoUrl": "rtsp://mcleansfs5.us-east-1.skyvdn.com:554/rtplive/R4_021",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs5.us-east-1.skyvdn.com:443/R4_021",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-55",
+    "mileMarker": "11.8",
+    "lat": 35.1246,
+    "lng": -90.0667833,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.1246,
+          "lng": -90.0667833
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 4220,
+    "title": "I-55 @ McLemore",
+    "description": "I-55 @ McLemore",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_022.flv.png",
+    "httpVideoUrl": "https://mcleansfs5.us-east-1.skyvdn.com:443/rtplive/R4_022/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs5.us-east-1.skyvdn.com:443/rtplive/R4_022/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs5.us-east-1.skyvdn.com:1935/rtplive/R4_022",
+    "rtspVideoUrl": "rtsp://mcleansfs5.us-east-1.skyvdn.com:554/rtplive/R4_022",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs5.us-east-1.skyvdn.com:443/R4_022",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-55",
+    "mileMarker": "0",
+    "lat": 35.116183,
+    "lng": -90.072392,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.116183,
+          "lng": -90.072392
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 4221,
+    "title": "I-55 @ S. Prkwy",
+    "description": "I-55 @ S. Prkwy",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_023.flv.png",
+    "httpVideoUrl": "https://mcleansfs5.us-east-1.skyvdn.com:443/rtplive/R4_023/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs5.us-east-1.skyvdn.com:443/rtplive/R4_023/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs5.us-east-1.skyvdn.com:1935/rtplive/R4_023",
+    "rtspVideoUrl": "rtsp://mcleansfs5.us-east-1.skyvdn.com:554/rtplive/R4_023",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs5.us-east-1.skyvdn.com:443/R4_023",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-55",
+    "mileMarker": "10.6",
+    "lat": 35.10788333,
+    "lng": -90.0758167,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.10788333,
+          "lng": -90.0758167
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 4222,
+    "title": "I-55 North of Mallory",
+    "description": "I-55 North of Mallory",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_024.flv.png",
+    "httpVideoUrl": "https://mcleansfs5.us-east-1.skyvdn.com:443/rtplive/R4_024/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs5.us-east-1.skyvdn.com:443/rtplive/R4_024/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs5.us-east-1.skyvdn.com:1935/rtplive/R4_024",
+    "rtspVideoUrl": "rtsp://mcleansfs5.us-east-1.skyvdn.com:554/rtplive/R4_024",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs5.us-east-1.skyvdn.com:443/R4_024",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-55",
+    "mileMarker": "9.8",
+    "lat": 35.09765,
+    "lng": -90.0761667,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.09765,
+          "lng": -90.0761667
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 4223,
+    "title": "I-55 South of Broadway",
+    "description": "I-55 South of Broadway",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_025.flv.png",
+    "httpVideoUrl": "https://mcleansfs5.us-east-1.skyvdn.com:443/rtplive/R4_025/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs5.us-east-1.skyvdn.com:443/rtplive/R4_025/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs5.us-east-1.skyvdn.com:1935/rtplive/R4_025",
+    "rtspVideoUrl": "rtsp://mcleansfs5.us-east-1.skyvdn.com:554/rtplive/R4_025",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs5.us-east-1.skyvdn.com:443/R4_025",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-55",
+    "mileMarker": "0",
+    "lat": 35.14536667,
+    "lng": -90.1211167,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.14536667,
+          "lng": -90.1211167
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 4224,
+    "title": "I-40 @ Airport Rd.",
+    "description": "I-40 @ Airport Rd.",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_026.flv.png",
+    "httpVideoUrl": "https://mcleansfs5.us-east-1.skyvdn.com:443/rtplive/R4_026/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs5.us-east-1.skyvdn.com:443/rtplive/R4_026/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs5.us-east-1.skyvdn.com:1935/rtplive/R4_026",
+    "rtspVideoUrl": "rtsp://mcleansfs5.us-east-1.skyvdn.com:554/rtplive/R4_026",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs5.us-east-1.skyvdn.com:443/R4_026",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "275.5",
+    "lat": 35.15996667,
+    "lng": -90.2258167,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.15996667,
+          "lng": -90.2258167
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 4225,
+    "title": "I-40 West of I-55/ I-40 western Jct.",
+    "description": "I-40 West of I-55/ I-40 western Jct.",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_027.flv.png",
+    "httpVideoUrl": "https://mcleansfs5.us-east-1.skyvdn.com:443/rtplive/R4_027/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs5.us-east-1.skyvdn.com:443/rtplive/R4_027/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs5.us-east-1.skyvdn.com:1935/rtplive/R4_027",
+    "rtspVideoUrl": "rtsp://mcleansfs5.us-east-1.skyvdn.com:554/rtplive/R4_027",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs5.us-east-1.skyvdn.com:443/R4_027",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "0",
+    "lat": 35.16583333,
+    "lng": -90.20665,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.16583333,
+          "lng": -90.20665
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 4226,
+    "title": "I-40 / I-55 Western Jct.",
+    "description": "I-40 / I-55 Western Jct.",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_028.flv.png",
+    "httpVideoUrl": "https://mcleansfs5.us-east-1.skyvdn.com:443/rtplive/R4_028/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs5.us-east-1.skyvdn.com:443/rtplive/R4_028/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs5.us-east-1.skyvdn.com:1935/rtplive/R4_028",
+    "rtspVideoUrl": "rtsp://mcleansfs5.us-east-1.skyvdn.com:554/rtplive/R4_028",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs5.us-east-1.skyvdn.com:443/R4_028",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "7",
+    "lat": 35.17161667,
+    "lng": -90.1927667,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.17161667,
+          "lng": -90.1927667
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 4227,
+    "title": "I-55 North of I-40/ I-55 western Jct.",
+    "description": "I-55 North of I-40/ I-55 western Jct.",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_029.flv.png",
+    "httpVideoUrl": "https://mcleansfs5.us-east-1.skyvdn.com:443/rtplive/R4_029/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs5.us-east-1.skyvdn.com:443/rtplive/R4_029/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs5.us-east-1.skyvdn.com:1935/rtplive/R4_029",
+    "rtspVideoUrl": "rtsp://mcleansfs5.us-east-1.skyvdn.com:554/rtplive/R4_029",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs5.us-east-1.skyvdn.com:443/R4_029",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-55",
+    "mileMarker": "8",
+    "lat": 35.18316667,
+    "lng": -90.1967167,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.18316667,
+          "lng": -90.1967167
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 4228,
+    "title": "I-55 @ weigh station mm9",
+    "description": "I-55 @ weigh station mm9",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_030.flv.png",
+    "httpVideoUrl": "https://mcleansfs5.us-east-1.skyvdn.com:443/rtplive/R4_030/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs5.us-east-1.skyvdn.com:443/rtplive/R4_030/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs5.us-east-1.skyvdn.com:1935/rtplive/R4_030",
+    "rtspVideoUrl": "rtsp://mcleansfs5.us-east-1.skyvdn.com:554/rtplive/R4_030",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs5.us-east-1.skyvdn.com:443/R4_030",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-55",
+    "mileMarker": "9",
+    "lat": 35.193033,
+    "lng": -90.2003,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.193033,
+          "lng": -90.2003
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 4229,
+    "title": "I-55 south of 3rd St.",
+    "description": "I-55 south of 3rd St.",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_071.flv.png",
+    "httpVideoUrl": "https://mcleansfs5.us-east-1.skyvdn.com:443/rtplive/R4_071/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs5.us-east-1.skyvdn.com:443/rtplive/R4_071/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs5.us-east-1.skyvdn.com:1935/rtplive/R4_071",
+    "rtspVideoUrl": "rtsp://mcleansfs5.us-east-1.skyvdn.com:554/rtplive/R4_071",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs5.us-east-1.skyvdn.com:443/R4_071",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-55",
+    "mileMarker": "7.4",
+    "lat": 35.07826667,
+    "lng": -90.0510833,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.07826667,
+          "lng": -90.0510833
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 4230,
+    "title": "I-55 bt. US 61 & I-55/I-240 Jct.",
+    "description": "I-55 bt. US 61 & I-55/I-240 Jct.",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_072.flv.png",
+    "httpVideoUrl": "https://mcleansfs5.us-east-1.skyvdn.com:443/rtplive/R4_072/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs5.us-east-1.skyvdn.com:443/rtplive/R4_072/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs5.us-east-1.skyvdn.com:1935/rtplive/R4_072",
+    "rtspVideoUrl": "rtsp://mcleansfs5.us-east-1.skyvdn.com:554/rtplive/R4_072",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs5.us-east-1.skyvdn.com:443/R4_072",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-55",
+    "mileMarker": "6.8",
+    "lat": 35.0754,
+    "lng": -90.0386167,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.0754,
+          "lng": -90.0386167
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 4231,
+    "title": "I-55/ I-240 Jct. southbnd lanes",
+    "description": "I-55/ I-240 Jct. southbnd lanes",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_073.flv.png",
+    "httpVideoUrl": "https://mcleansfs5.us-east-1.skyvdn.com:443/rtplive/R4_073/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs5.us-east-1.skyvdn.com:443/rtplive/R4_073/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs5.us-east-1.skyvdn.com:1935/rtplive/R4_073",
+    "rtspVideoUrl": "rtsp://mcleansfs5.us-east-1.skyvdn.com:554/rtplive/R4_073",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs5.us-east-1.skyvdn.com:443/R4_073",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-55",
+    "mileMarker": "6",
+    "lat": 35.07263333,
+    "lng": -90.0278167,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.07263333,
+          "lng": -90.0278167
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 4232,
+    "title": "I-55/ I-240 Jct. northbnd lanes",
+    "description": "I-55/ I-240 Jct. northbnd lanes",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_074.flv.png",
+    "httpVideoUrl": "https://mcleansfs5.us-east-1.skyvdn.com:443/rtplive/R4_074/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs5.us-east-1.skyvdn.com:443/rtplive/R4_074/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs5.us-east-1.skyvdn.com:1935/rtplive/R4_074",
+    "rtspVideoUrl": "rtsp://mcleansfs5.us-east-1.skyvdn.com:554/rtplive/R4_074",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs5.us-east-1.skyvdn.com:443/R4_074",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-55",
+    "mileMarker": "6",
+    "lat": 35.07178333,
+    "lng": -90.0255833,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.07178333,
+          "lng": -90.0255833
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 4233,
+    "title": "I-55 @ US 51, Elvis Presley",
+    "description": "I-55 @ US 51, Elvis Presley",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_075.flv.png",
+    "httpVideoUrl": "https://mcleansfs5.us-east-1.skyvdn.com:443/rtplive/R4_075/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs5.us-east-1.skyvdn.com:443/rtplive/R4_075/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs5.us-east-1.skyvdn.com:1935/rtplive/R4_075",
+    "rtspVideoUrl": "rtsp://mcleansfs5.us-east-1.skyvdn.com:554/rtplive/R4_075",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs5.us-east-1.skyvdn.com:443/R4_075",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-55",
+    "mileMarker": "5.2",
+    "lat": 35.0637,
+    "lng": -90.0240667,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.0637,
+          "lng": -90.0240667
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 4234,
+    "title": "I-55 south of Brooks, US 51 Jct.",
+    "description": "I-55 south of Brooks, US 51 Jct.",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_076.flv.png",
+    "httpVideoUrl": "https://mcleansfs5.us-east-1.skyvdn.com:443/rtplive/R4_076/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs5.us-east-1.skyvdn.com:443/rtplive/R4_076/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs5.us-east-1.skyvdn.com:1935/rtplive/R4_076",
+    "rtspVideoUrl": "rtsp://mcleansfs5.us-east-1.skyvdn.com:554/rtplive/R4_076",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs5.us-east-1.skyvdn.com:443/R4_076",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-55",
+    "mileMarker": "4.6",
+    "lat": 35.05788333,
+    "lng": -90.0155667,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.05788333,
+          "lng": -90.0155667
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 4235,
+    "title": "I-55 bt. Raines & Winchester",
+    "description": "I-55 bt. Raines & Winchester",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_077.flv.png",
+    "httpVideoUrl": "https://mcleansfs5.us-east-1.skyvdn.com:443/rtplive/R4_077/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs5.us-east-1.skyvdn.com:443/rtplive/R4_077/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs5.us-east-1.skyvdn.com:1935/rtplive/R4_077",
+    "rtspVideoUrl": "rtsp://mcleansfs5.us-east-1.skyvdn.com:554/rtplive/R4_077",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs5.us-east-1.skyvdn.com:443/R4_077",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-55",
+    "mileMarker": "3.7",
+    "lat": 35.046983,
+    "lng": -90.00805,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.046983,
+          "lng": -90.00805
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 4236,
+    "title": "I-55 @ Raines overpass",
+    "description": "I-55 @ Raines overpass",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_078.flv.png",
+    "httpVideoUrl": "https://mcleansfs5.us-east-1.skyvdn.com:443/rtplive/R4_078/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs5.us-east-1.skyvdn.com:443/rtplive/R4_078/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs5.us-east-1.skyvdn.com:1935/rtplive/R4_078",
+    "rtspVideoUrl": "rtsp://mcleansfs5.us-east-1.skyvdn.com:554/rtplive/R4_078",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs5.us-east-1.skyvdn.com:443/R4_078",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-55",
+    "mileMarker": "3",
+    "lat": 35.0378,
+    "lng": -90.00275,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.0378,
+          "lng": -90.00275
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 4237,
+    "title": "I-55 north of Shelby Dr.",
+    "description": "I-55 north of Shelby Dr.",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_079.flv.png",
+    "httpVideoUrl": "https://mcleansfs5.us-east-1.skyvdn.com:443/rtplive/R4_079/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs5.us-east-1.skyvdn.com:443/rtplive/R4_079/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs5.us-east-1.skyvdn.com:1935/rtplive/R4_079",
+    "rtspVideoUrl": "rtsp://mcleansfs5.us-east-1.skyvdn.com:554/rtplive/R4_079",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs5.us-east-1.skyvdn.com:443/R4_079",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-55",
+    "mileMarker": "2.2",
+    "lat": 35.02655,
+    "lng": -90.0023667,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.02655,
+          "lng": -90.0023667
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 4238,
+    "title": "I-55 south of Shelby",
+    "description": "I-55 south of Shelby",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_080.flv.png",
+    "httpVideoUrl": "https://mcleansfs5.us-east-1.skyvdn.com:443/rtplive/R4_080/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs5.us-east-1.skyvdn.com:443/rtplive/R4_080/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs5.us-east-1.skyvdn.com:1935/rtplive/R4_080",
+    "rtspVideoUrl": "rtsp://mcleansfs5.us-east-1.skyvdn.com:554/rtplive/R4_080",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs5.us-east-1.skyvdn.com:443/R4_080",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-55",
+    "mileMarker": "1.35",
+    "lat": 35.01138333,
+    "lng": -90.0023667,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.01138333,
+          "lng": -90.0023667
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 4239,
+    "title": "SR385 at Hwy 70",
+    "description": "SR385 at Hwy 70",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_171.flv.png",
+    "httpVideoUrl": "https://mcleansfs5.us-east-1.skyvdn.com:443/rtplive/R4_171/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs5.us-east-1.skyvdn.com:443/rtplive/R4_171/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs5.us-east-1.skyvdn.com:1935/rtplive/R4_171",
+    "rtspVideoUrl": "rtsp://mcleansfs5.us-east-1.skyvdn.com:554/rtplive/R4_171",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs5.us-east-1.skyvdn.com:443/R4_171",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "SR 385",
+    "mileMarker": "0",
+    "lat": 35.289239,
+    "lng": -89.687211,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.289239,
+          "lng": -89.687211
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 4240,
+    "title": "I-40 @ Canada Rd. 20.2 Mile Marker",
+    "description": "I-40 @ Canada Rd. 20.2 Mile Marker",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_172.flv.png",
+    "httpVideoUrl": "https://mcleansfs5.us-east-1.skyvdn.com:443/rtplive/R4_172/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs5.us-east-1.skyvdn.com:443/rtplive/R4_172/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs5.us-east-1.skyvdn.com:1935/rtplive/R4_172",
+    "rtspVideoUrl": "rtsp://mcleansfs5.us-east-1.skyvdn.com:554/rtplive/R4_172",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs5.us-east-1.skyvdn.com:443/R4_172",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "20.2",
+    "lat": 35.223789,
+    "lng": -89.737203,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.223789,
+          "lng": -89.737203
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 4242,
+    "title": "I-40@ Campbell Street MM83 WB",
+    "description": "I-40@ Campbell Street MM83 WB",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_178.flv.png",
+    "httpVideoUrl": "https://mcleansfs5.us-east-1.skyvdn.com:443/rtplive/R4_178/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs5.us-east-1.skyvdn.com:443/rtplive/R4_178/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs5.us-east-1.skyvdn.com:1935/rtplive/R4_178",
+    "rtspVideoUrl": "rtsp://mcleansfs5.us-east-1.skyvdn.com:554/rtplive/R4_178",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs5.us-east-1.skyvdn.com:443/R4_178",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "83",
+    "lat": 35.674783,
+    "lng": -88.808039,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.674783,
+          "lng": -88.808039
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 4243,
+    "title": "I-40@Christmasville Rd.  MM85 WB",
+    "description": "I-40@Christmasville Rd.  MM85 WB",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_179.flv.png",
+    "httpVideoUrl": "https://mcleansfs5.us-east-1.skyvdn.com:443/rtplive/R4_179/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs5.us-east-1.skyvdn.com:443/rtplive/R4_179/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs5.us-east-1.skyvdn.com:1935/rtplive/R4_179",
+    "rtspVideoUrl": "rtsp://mcleansfs5.us-east-1.skyvdn.com:554/rtplive/R4_179",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs5.us-east-1.skyvdn.com:443/R4_179",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "85",
+    "lat": 35.679867,
+    "lng": -88.779772,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.679867,
+          "lng": -88.779772
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 4244,
+    "title": "I-40@US70 MM87 WB",
+    "description": "I-40@US70 MM87 WB",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_180.flv.png",
+    "httpVideoUrl": "https://mcleansfs5.us-east-1.skyvdn.com:443/rtplive/R4_180/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs5.us-east-1.skyvdn.com:443/rtplive/R4_180/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs5.us-east-1.skyvdn.com:1935/rtplive/R4_180",
+    "rtspVideoUrl": "rtsp://mcleansfs5.us-east-1.skyvdn.com:554/rtplive/R4_180",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs5.us-east-1.skyvdn.com:443/R4_180",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "87",
+    "lat": 35.681475,
+    "lng": -88.742561,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.681475,
+          "lng": -88.742561
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 4245,
+    "title": "I-40 @ MM 89.2 WB",
+    "description": "I-40 @ MM 89.2 WB",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_181.flv.png",
+    "httpVideoUrl": "https://mcleansfs5.us-east-1.skyvdn.com:443/rtplive/R4_181/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs5.us-east-1.skyvdn.com:443/rtplive/R4_181/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs5.us-east-1.skyvdn.com:1935/rtplive/R4_181",
+    "rtspVideoUrl": "rtsp://mcleansfs5.us-east-1.skyvdn.com:554/rtplive/R4_181",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs5.us-east-1.skyvdn.com:443/R4_181",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "89.2",
+    "lat": 35.683794,
+    "lng": -88.727939,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.683794,
+          "lng": -88.727939
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 4685,
+    "title": "I-40 @ Warford",
+    "description": "I-40 @ Warford",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_041.flv.png",
+    "httpVideoUrl": "https://mcleansfs2.us-east-1.skyvdn.com:443/rtplive/R4_041/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs2.us-east-1.skyvdn.com:443/rtplive/R4_041/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs2.us-east-1.skyvdn.com:1935/rtplive/R4_041",
+    "rtspVideoUrl": "rtsp://mcleansfs2.us-east-1.skyvdn.com:554/rtplive/R4_041",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs2.us-east-1.skyvdn.com:443/R4_041",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "6.2",
+    "lat": 35.19025,
+    "lng": -89.9561833,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.19025,
+          "lng": -89.9561833
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 4686,
+    "title": "I-40 @ Highland",
+    "description": "I-40 @ Highland",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_042.flv.png",
+    "httpVideoUrl": "https://mcleansfs2.us-east-1.skyvdn.com:443/rtplive/R4_042/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs2.us-east-1.skyvdn.com:443/rtplive/R4_042/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs2.us-east-1.skyvdn.com:1935/rtplive/R4_042",
+    "rtspVideoUrl": "rtsp://mcleansfs2.us-east-1.skyvdn.com:554/rtplive/R4_042",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs2.us-east-1.skyvdn.com:443/R4_042",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "7",
+    "lat": 35.18991667,
+    "lng": -89.9427333,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.18991667,
+          "lng": -89.9427333
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 4687,
+    "title": "I-40 @ Jackson",
+    "description": "I-40 @ Jackson",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_043.flv.png",
+    "httpVideoUrl": "https://mcleansfs2.us-east-1.skyvdn.com:443/rtplive/R4_043/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs2.us-east-1.skyvdn.com:443/rtplive/R4_043/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs2.us-east-1.skyvdn.com:1935/rtplive/R4_043",
+    "rtspVideoUrl": "rtsp://mcleansfs2.us-east-1.skyvdn.com:554/rtplive/R4_043",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs2.us-east-1.skyvdn.com:443/R4_043",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "0",
+    "lat": 35.19296667,
+    "lng": -89.9267,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.19296667,
+          "lng": -89.9267
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 4688,
+    "title": "I-40 east ofJackson Ave.",
+    "description": "I-40 east ofJackson Ave.",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_044.flv.png",
+    "httpVideoUrl": "https://mcleansfs2.us-east-1.skyvdn.com:443/rtplive/R4_044/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs2.us-east-1.skyvdn.com:443/rtplive/R4_044/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs2.us-east-1.skyvdn.com:1935/rtplive/R4_044",
+    "rtspVideoUrl": "rtsp://mcleansfs2.us-east-1.skyvdn.com:554/rtplive/R4_044",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs2.us-east-1.skyvdn.com:443/R4_044",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "8.6",
+    "lat": 35.188,
+    "lng": -89.9168333,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.188,
+          "lng": -89.9168333
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 4689,
+    "title": "I-40 west of Covington Pike",
+    "description": "I-40 west of Covington Pike",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_045.flv.png",
+    "httpVideoUrl": "https://mcleansfs2.us-east-1.skyvdn.com:443/rtplive/R4_045/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs2.us-east-1.skyvdn.com:443/rtplive/R4_045/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs2.us-east-1.skyvdn.com:1935/rtplive/R4_045",
+    "rtspVideoUrl": "rtsp://mcleansfs2.us-east-1.skyvdn.com:554/rtplive/R4_045",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs2.us-east-1.skyvdn.com:443/R4_045",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "9.4",
+    "lat": 35.17598333,
+    "lng": -89.908,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.17598333,
+          "lng": -89.908
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 4690,
+    "title": "I-40 @ Covington Pike",
+    "description": "I-40 @ Covington Pike",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_046.flv.png",
+    "httpVideoUrl": "https://mcleansfs2.us-east-1.skyvdn.com:443/rtplive/R4_046/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs2.us-east-1.skyvdn.com:443/rtplive/R4_046/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs2.us-east-1.skyvdn.com:1935/rtplive/R4_046",
+    "rtspVideoUrl": "rtsp://mcleansfs2.us-east-1.skyvdn.com:554/rtplive/R4_046",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs2.us-east-1.skyvdn.com:443/R4_046",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "10.2",
+    "lat": 35.16861667,
+    "lng": -89.9023667,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.16861667,
+          "lng": -89.9023667
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 4691,
+    "title": "I-40 @ White Station",
+    "description": "I-40 @ White Station",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_047.flv.png",
+    "httpVideoUrl": "https://mcleansfs2.us-east-1.skyvdn.com:443/rtplive/R4_047/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs2.us-east-1.skyvdn.com:443/rtplive/R4_047/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs2.us-east-1.skyvdn.com:1935/rtplive/R4_047",
+    "rtspVideoUrl": "rtsp://mcleansfs2.us-east-1.skyvdn.com:554/rtplive/R4_047",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs2.us-east-1.skyvdn.com:443/R4_047",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "11",
+    "lat": 35.1578,
+    "lng": -89.8944167,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.1578,
+          "lng": -89.8944167
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 4692,
+    "title": "I-40 /I240 /Sam Cooper Cam A",
+    "description": "I-40 /I240 /Sam Cooper Cam A",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_048.flv.png",
+    "httpVideoUrl": "https://mcleansfs2.us-east-1.skyvdn.com:443/rtplive/R4_048/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs2.us-east-1.skyvdn.com:443/rtplive/R4_048/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs2.us-east-1.skyvdn.com:1935/rtplive/R4_048",
+    "rtspVideoUrl": "rtsp://mcleansfs2.us-east-1.skyvdn.com:554/rtplive/R4_048",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs2.us-east-1.skyvdn.com:443/R4_048",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "11.8",
+    "lat": 35.15146667,
+    "lng": -89.8852833,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.15146667,
+          "lng": -89.8852833
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 4693,
+    "title": "I-40 /I240 /Sam Cooper, Cam B",
+    "description": "I-40 /I240 /Sam Cooper, Cam B",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_049.flv.png",
+    "httpVideoUrl": "https://mcleansfs2.us-east-1.skyvdn.com:443/rtplive/R4_049/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs2.us-east-1.skyvdn.com:443/rtplive/R4_049/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs2.us-east-1.skyvdn.com:1935/rtplive/R4_049",
+    "rtspVideoUrl": "rtsp://mcleansfs2.us-east-1.skyvdn.com:554/rtplive/R4_049",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs2.us-east-1.skyvdn.com:443/R4_049",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "11.8",
+    "lat": 35.15206667,
+    "lng": -89.88285,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.15206667,
+          "lng": -89.88285
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 4694,
+    "title": "I-40 east of I-240/ Sam Cooper",
+    "description": "I-40 east of I-240/ Sam Cooper",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_050.flv.png",
+    "httpVideoUrl": "https://mcleansfs2.us-east-1.skyvdn.com:443/rtplive/R4_050/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs2.us-east-1.skyvdn.com:443/rtplive/R4_050/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs2.us-east-1.skyvdn.com:1935/rtplive/R4_050",
+    "rtspVideoUrl": "rtsp://mcleansfs2.us-east-1.skyvdn.com:554/rtplive/R4_050",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs2.us-east-1.skyvdn.com:443/R4_050",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "11.2",
+    "lat": 35.15826667,
+    "lng": -89.8777833,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.15826667,
+          "lng": -89.8777833
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 4695,
+    "title": "I-240 @ Millbranch",
+    "description": "I-240 @ Millbranch",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_091.flv.png",
+    "httpVideoUrl": "https://mcleansfs2.us-east-1.skyvdn.com:443/rtplive/R4_091/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs2.us-east-1.skyvdn.com:443/rtplive/R4_091/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs2.us-east-1.skyvdn.com:1935/rtplive/R4_091",
+    "rtspVideoUrl": "rtsp://mcleansfs2.us-east-1.skyvdn.com:554/rtplive/R4_091",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs2.us-east-1.skyvdn.com:443/R4_091",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-240",
+    "mileMarker": "24.8",
+    "lat": 35.07305,
+    "lng": -90.00795,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.07305,
+          "lng": -90.00795
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 4696,
+    "title": "I-240 @ Airways",
+    "description": "I-240 @ Airways",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_092.flv.png",
+    "httpVideoUrl": "https://mcleansfs2.us-east-1.skyvdn.com:443/rtplive/R4_092/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs2.us-east-1.skyvdn.com:443/rtplive/R4_092/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs2.us-east-1.skyvdn.com:1935/rtplive/R4_092",
+    "rtspVideoUrl": "rtsp://mcleansfs2.us-east-1.skyvdn.com:554/rtplive/R4_092",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs2.us-east-1.skyvdn.com:443/R4_092",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-240",
+    "mileMarker": "23.8",
+    "lat": 35.076514,
+    "lng": -89.991467,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.076514,
+          "lng": -89.991467
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 4697,
+    "title": "I-240 bt. Airways and Lamar",
+    "description": "I-240 bt. Airways and Lamar",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_093.flv.png",
+    "httpVideoUrl": "https://mcleansfs2.us-east-1.skyvdn.com:443/rtplive/R4_093/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs2.us-east-1.skyvdn.com:443/rtplive/R4_093/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs2.us-east-1.skyvdn.com:1935/rtplive/R4_093",
+    "rtspVideoUrl": "rtsp://mcleansfs2.us-east-1.skyvdn.com:554/rtplive/R4_093",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs2.us-east-1.skyvdn.com:443/R4_093",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-240",
+    "mileMarker": "22.8",
+    "lat": 35.076353,
+    "lng": -89.974889,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.076353,
+          "lng": -89.974889
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 4698,
+    "title": "I-240 @ Lamar",
+    "description": "I-240 @ Lamar",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_094.flv.png",
+    "httpVideoUrl": "https://mcleansfs2.us-east-1.skyvdn.com:443/rtplive/R4_094/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs2.us-east-1.skyvdn.com:443/rtplive/R4_094/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs2.us-east-1.skyvdn.com:1935/rtplive/R4_094",
+    "rtspVideoUrl": "rtsp://mcleansfs2.us-east-1.skyvdn.com:554/rtplive/R4_094",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs2.us-east-1.skyvdn.com:443/R4_094",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-240",
+    "mileMarker": "21.6",
+    "lat": 35.0807,
+    "lng": -89.9564167,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.0807,
+          "lng": -89.9564167
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 4699,
+    "title": "I-240 bt. Lamar & Getwell",
+    "description": "I-240 bt. Lamar & Getwell",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_095.flv.png",
+    "httpVideoUrl": "https://mcleansfs2.us-east-1.skyvdn.com:443/rtplive/R4_095/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs2.us-east-1.skyvdn.com:443/rtplive/R4_095/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs2.us-east-1.skyvdn.com:1935/rtplive/R4_095",
+    "rtspVideoUrl": "rtsp://mcleansfs2.us-east-1.skyvdn.com:554/rtplive/R4_095",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs2.us-east-1.skyvdn.com:443/R4_095",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-240",
+    "mileMarker": "20.8",
+    "lat": 35.08153333,
+    "lng": -89.9436333,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.08153333,
+          "lng": -89.9436333
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 4700,
+    "title": "I-240 @ Getwell",
+    "description": "I-240 @ Getwell",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_096.flv.png",
+    "httpVideoUrl": "https://mcleansfs2.us-east-1.skyvdn.com:443/rtplive/R4_096/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs2.us-east-1.skyvdn.com:443/rtplive/R4_096/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs2.us-east-1.skyvdn.com:1935/rtplive/R4_096",
+    "rtspVideoUrl": "rtsp://mcleansfs2.us-east-1.skyvdn.com:554/rtplive/R4_096",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs2.us-east-1.skyvdn.com:443/R4_096",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-240",
+    "mileMarker": "20",
+    "lat": 35.07961667,
+    "lng": -89.9311333,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.07961667,
+          "lng": -89.9311333
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 4701,
+    "title": "I-240 east of Getwell",
+    "description": "I-240 east of Getwell",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_097.flv.png",
+    "httpVideoUrl": "https://mcleansfs2.us-east-1.skyvdn.com:443/rtplive/R4_097/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs2.us-east-1.skyvdn.com:443/rtplive/R4_097/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs2.us-east-1.skyvdn.com:1935/rtplive/R4_097",
+    "rtspVideoUrl": "rtsp://mcleansfs2.us-east-1.skyvdn.com:554/rtplive/R4_097",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs2.us-east-1.skyvdn.com:443/R4_097",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-240",
+    "mileMarker": "19.6",
+    "lat": 35.0786,
+    "lng": -89.92355,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.0786,
+          "lng": -89.92355
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 4702,
+    "title": "I-240 west of Perkins",
+    "description": "I-240 west of Perkins",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_098.flv.png",
+    "httpVideoUrl": "https://mcleansfs2.us-east-1.skyvdn.com:443/rtplive/R4_098/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs2.us-east-1.skyvdn.com:443/rtplive/R4_098/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs2.us-east-1.skyvdn.com:1935/rtplive/R4_098",
+    "rtspVideoUrl": "rtsp://mcleansfs2.us-east-1.skyvdn.com:554/rtplive/R4_098",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs2.us-east-1.skyvdn.com:443/R4_098",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-240",
+    "mileMarker": "19.2",
+    "lat": 35.07781667,
+    "lng": -89.91685,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.07781667,
+          "lng": -89.91685
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 4703,
+    "title": "I-240 @ Perkins",
+    "description": "I-240 @ Perkins",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_099.flv.png",
+    "httpVideoUrl": "https://mcleansfs2.us-east-1.skyvdn.com:443/rtplive/R4_099/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs2.us-east-1.skyvdn.com:443/rtplive/R4_099/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs2.us-east-1.skyvdn.com:1935/rtplive/R4_099",
+    "rtspVideoUrl": "rtsp://mcleansfs2.us-east-1.skyvdn.com:554/rtplive/R4_099",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs2.us-east-1.skyvdn.com:443/R4_099",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-240",
+    "mileMarker": "18.6",
+    "lat": 35.07801667,
+    "lng": -89.9070833,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.07801667,
+          "lng": -89.9070833
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 4704,
+    "title": "I-240 @ Mt. Moriah",
+    "description": "I-240 @ Mt. Moriah",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_100.flv.png",
+    "httpVideoUrl": "https://mcleansfs2.us-east-1.skyvdn.com:443/rtplive/R4_100/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs2.us-east-1.skyvdn.com:443/rtplive/R4_100/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs2.us-east-1.skyvdn.com:1935/rtplive/R4_100",
+    "rtspVideoUrl": "rtsp://mcleansfs2.us-east-1.skyvdn.com:554/rtplive/R4_100",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs2.us-east-1.skyvdn.com:443/R4_100",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-240",
+    "mileMarker": "17.8",
+    "lat": 35.08386667,
+    "lng": -89.8929333,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.08386667,
+          "lng": -89.8929333
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 6044,
+    "title": "I-40 MM 40 West",
+    "description": "I-40 MM 40 West",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_PCCTV03.flv.png",
+    "httpVideoUrl": "https://mcleansfs2.us-east-1.skyvdn.com:443/rtplive/R4_PCCTV03/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs2.us-east-1.skyvdn.com:443/rtplive/R4_PCCTV03/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs2.us-east-1.skyvdn.com:1935/rtplive/R4_PCCTV03",
+    "rtspVideoUrl": "rtsp://mcleansfs2.us-east-1.skyvdn.com:554/rtplive/R4_PCCTV03",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs2.us-east-1.skyvdn.com:443/R4_PCCTV03",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "",
+    "mileMarker": "0",
+    "lat": 35.390536,
+    "lng": -89.41469,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.390536,
+          "lng": -89.41469
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 6057,
+    "title": "I-40 WB MM 83 @ Campbell St.",
+    "description": "I-40 WB MM 83 @ Campbell St.",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_201.flv.png",
+    "httpVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_201/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_201/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs4.us-east-1.skyvdn.com:1935/rtplive/R4_201",
+    "rtspVideoUrl": "rtsp://mcleansfs4.us-east-1.skyvdn.com:554/rtplive/R4_201",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs4.us-east-1.skyvdn.com:443/R4_201",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "83",
+    "lat": 35.674783,
+    "lng": -88.808039,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.674783,
+          "lng": -88.808039
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 6058,
+    "title": "I-40 WB MM 85 @ Christmasville",
+    "description": "I-40 WB MM 85 @ Christmasville",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_202.flv.png",
+    "httpVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_202/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_202/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs4.us-east-1.skyvdn.com:1935/rtplive/R4_202",
+    "rtspVideoUrl": "rtsp://mcleansfs4.us-east-1.skyvdn.com:554/rtplive/R4_202",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs4.us-east-1.skyvdn.com:443/R4_202",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "85",
+    "lat": 35.679867,
+    "lng": -88.779772,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.679867,
+          "lng": -88.779772
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 6059,
+    "title": "I-40 WB MM 87 @ US 70",
+    "description": "I-40 WB MM 87 @ US 70",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_203.flv.png",
+    "httpVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_203/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_203/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs4.us-east-1.skyvdn.com:1935/rtplive/R4_203",
+    "rtspVideoUrl": "rtsp://mcleansfs4.us-east-1.skyvdn.com:554/rtplive/R4_203",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs4.us-east-1.skyvdn.com:443/R4_203",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "87",
+    "lat": 35.681475,
+    "lng": -88.742561,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.681475,
+          "lng": -88.742561
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 6060,
+    "title": "I-40 WB MM 89.2 East of US 70",
+    "description": "I-40 WB MM 89.2 East of US 70",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_204.flv.png",
+    "httpVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_204/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_204/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs4.us-east-1.skyvdn.com:1935/rtplive/R4_204",
+    "rtspVideoUrl": "rtsp://mcleansfs4.us-east-1.skyvdn.com:554/rtplive/R4_204",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs4.us-east-1.skyvdn.com:443/R4_204",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "89.2",
+    "lat": 35.683794,
+    "lng": -88.727939,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.683794,
+          "lng": -88.727939
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 6061,
+    "title": "I-40 MM 80.5 Hwy 45 Bypass",
+    "description": "I-40 MM 80.5 Hwy 45 Bypass",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_205.flv.png",
+    "httpVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_205/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_205/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs4.us-east-1.skyvdn.com:1935/rtplive/R4_205",
+    "rtspVideoUrl": "rtsp://mcleansfs4.us-east-1.skyvdn.com:554/rtplive/R4_205",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs4.us-east-1.skyvdn.com:443/R4_205",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "80.5",
+    "lat": 35.665013,
+    "lng": -88.850073,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.665013,
+          "lng": -88.850073
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 6062,
+    "title": "I-40 MM 81.9 West of Highland Ave.",
+    "description": "I-40 MM 81.9 West of Highland Ave.",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_206.flv.png",
+    "httpVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_206/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_206/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs4.us-east-1.skyvdn.com:1935/rtplive/R4_206",
+    "rtspVideoUrl": "rtsp://mcleansfs4.us-east-1.skyvdn.com:554/rtplive/R4_206",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs4.us-east-1.skyvdn.com:443/R4_206",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "81.9",
+    "lat": 35.670844,
+    "lng": -88.829069,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.670844,
+          "lng": -88.829069
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 6063,
+    "title": "I-40 EB @ SR 223",
+    "description": "I-40 EB @ SR 223",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_207.flv.png",
+    "httpVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_207/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_207/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs4.us-east-1.skyvdn.com:1935/rtplive/R4_207",
+    "rtspVideoUrl": "rtsp://mcleansfs4.us-east-1.skyvdn.com:554/rtplive/R4_207",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs4.us-east-1.skyvdn.com:443/R4_207",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "0",
+    "lat": 35.641718,
+    "lng": -88.919473,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.641718,
+          "lng": -88.919473
+        }
+      ]
+    },
+    "state": "TN"
+  },
+  {
+    "id": 6064,
+    "title": "I-40 EB @Lower Brownsville Rd.",
+    "description": "I-40 EB @Lower Brownsville Rd.",
+    "thumbnailUrl": "https://tnsnapshots.com/thumbs/R4_208.flv.png",
+    "httpVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_208/playlist.m3u8",
+    "httpsVideoUrl": "https://mcleansfs4.us-east-1.skyvdn.com:443/rtplive/R4_208/playlist.m3u8",
+    "rtmpVideoUrl": "rtmp://mcleansfs4.us-east-1.skyvdn.com:1935/rtplive/R4_208",
+    "rtspVideoUrl": "rtsp://mcleansfs4.us-east-1.skyvdn.com:554/rtplive/R4_208",
+    "clspUrl": null,
+    "clspsUrl": "clsps://mcleansfs4.us-east-1.skyvdn.com:443/R4_208",
+    "active": "true",
+    "jurisdiction": "Memphis",
+    "route": "I-40",
+    "mileMarker": "0",
+    "lat": 35.632892,
+    "lng": -88.948811,
+    "location": {
+      "type": "point",
+      "coordinates": [
+        {
+          "lat": 35.632892,
+          "lng": -88.948811
+        }
+      ]
+    },
+    "state": "TN"
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "id": 777,
+    "name": "West Memphis Truck Parking Exit Ramp",
+    "lat": 35.156639,
+    "lon": -90.240472,
+    "route": "I-40",
+    "state": "AR",
+    "status": "online",
+    "snapshot_url": "https://layers.idrivearkansas.com/cameras/777.jpg"
+  },
+  {
+    "id": 711,
+    "name": "I-555 @ Payneway (Exit 18)",
+    "lat": 35.546333,
+    "lon": -90.497139,
+    "route": "I-555",
+    "state": "AR",
+    "status": "online",
+    "snapshot_url": "https://layers.idrivearkansas.com/cameras/711.jpg"
+  },
+  {
+    "id": 712,
+    "name": "I-555 @ Marked Tree (Exit 13)",
+    "lat": 35.519556,
+    "lon": -90.412611,
+    "route": "I-555",
+    "state": "AR",
+    "status": "online",
+    "snapshot_url": "https://layers.idrivearkansas.com/cameras/712.jpg"
+  },
+  {
+    "id": 713,
+    "name": "I-555 @ Tyronza (Exit 8)",
+    "lat": 35.48,
+    "lon": -90.3585,
+    "route": "I-555",
+    "state": "AR",
+    "status": "online",
+    "snapshot_url": "https://layers.idrivearkansas.com/cameras/713.jpg"
+  },
+  {
+    "id": 714,
+    "name": "I-555 @ Lepanto (Exit 7)",
+    "lat": 35.473167,
+    "lon": -90.334972,
+    "route": "I-555",
+    "state": "AR",
+    "status": "online",
+    "snapshot_url": "https://layers.idrivearkansas.com/cameras/714.jpg"
+  },
+  {
+    "id": 461,
+    "name": "I-555 @ I-55 Interchange",
+    "lat": 35.391694,
+    "lon": -90.273083,
+    "route": "I-555",
+    "state": "AR",
+    "status": "online",
+    "snapshot_url": "https://layers.idrivearkansas.com/cameras/461.jpg"
+  },
+  {
+    "id": 854,
+    "name": "I-40 at Truck Parking Sign",
+    "lat": 35.166789,
+    "lon": -90.205058,
+    "route": "I-40",
+    "state": "AR",
+    "status": "online",
+    "snapshot_url": "https://layers.idrivearkansas.com/cameras/854.jpg"
+  },
+  {
+    "id": 394,
+    "name": "I-40 @ Exit 265",
+    "lat": 35.151389,
+    "lon": -90.400389,
+    "route": "I-40",
+    "state": "AR",
+    "status": "online",
+    "snapshot_url": "https://layers.idrivearkansas.com/cameras/394.jpg"
+  },
+  {
+    "id": 422,
+    "name": "I-55 @ Jericho",
+    "lat": 35.247294,
+    "lon": -90.219789,
+    "route": "I-55",
+    "state": "AR",
+    "status": "online",
+    "snapshot_url": "https://layers.idrivearkansas.com/cameras/422.jpg"
+  },
+  {
+    "id": 386,
+    "name": "I-40 at WB Weigh Station",
+    "lat": 35.153528,
+    "lon": -90.089361,
+    "route": "I-40",
+    "state": "AR",
+    "status": "online",
+    "snapshot_url": "https://layers.idrivearkansas.com/cameras/386.jpg"
+  },
+  {
+    "id": 772,
+    "name": "West Memphis Truck Parking",
+    "lat": 35.156639,
+    "lon": -90.240472,
+    "route": "I-40",
+    "state": "AR",
+    "status": "online",
+    "snapshot_url": "https://layers.idrivearkansas.com/cameras/772.jpg"
+  },
+  {
+    "id": 773,
+    "name": "West Memphis Truck Parking Entrance Ramp",
+    "lat": 35.156639,
+    "lon": -90.240472,
+    "route": "I-40",
+    "state": "AR",
+    "status": "online",
+    "snapshot_url": "https://layers.idrivearkansas.com/cameras/773.jpg"
+  },
+  {
+    "id": 439,
+    "name": "I-55 @ Weigh Station",
+    "lat": 35.140803,
+    "lon": -90.104489,
+    "route": "I-55",
+    "state": "AR",
+    "status": "online",
+    "snapshot_url": "https://layers.idrivearkansas.com/cameras/439.jpg"
+  },
+  {
+    "id": 440,
+    "name": "I-55 @ MLK Drive Overpass",
+    "lat": 35.151636,
+    "lon": -90.138964,
+    "route": "I-55",
+    "state": "AR",
+    "status": "online",
+    "snapshot_url": "https://layers.idrivearkansas.com/cameras/440.jpg"
+  },
+  {
+    "id": 172,
+    "name": "I-40 at Mile Marker 273",
+    "lat": 35.147444,
+    "lon": -90.263935,
+    "route": "I-40",
+    "state": "AR",
+    "status": "online",
+    "snapshot_url": "https://layers.idrivearkansas.com/cameras/172.jpg"
+  },
+  {
+    "id": 778,
+    "name": "West Memphis Truck Parking",
+    "lat": 35.156639,
+    "lon": -90.240472,
+    "route": "I-40",
+    "state": "AR",
+    "status": "online",
+    "snapshot_url": "https://layers.idrivearkansas.com/cameras/778.jpg"
+  },
+  {
+    "id": 388,
+    "name": "I-40 at mm 256",
+    "lat": 35.118478,
+    "lon": -90.548325,
+    "route": "I-40",
+    "state": "AR",
+    "status": "online",
+    "snapshot_url": "https://layers.idrivearkansas.com/cameras/388.jpg"
+  },
+  {
+    "id": 389,
+    "name": "I-40 at mm 259.8",
+    "lat": 35.132644,
+    "lon": -90.486517,
+    "route": "I-40",
+    "state": "AR",
+    "status": "online",
+    "snapshot_url": "https://layers.idrivearkansas.com/cameras/389.jpg"
+  },
+  {
+    "id": 299,
+    "name": "I-40 at Mile Marker 270",
+    "lat": 35.147987,
+    "lon": -90.31981,
+    "route": "I-40",
+    "state": "AR",
+    "status": "online",
+    "snapshot_url": "https://layers.idrivearkansas.com/cameras/299.jpg"
+  },
+  {
+    "id": 564,
+    "name": "I-55 @ James Mill Rd. (Exit 14)",
+    "lat": 35.262942,
+    "lon": -90.228636,
+    "route": "I-55",
+    "state": "AR",
+    "status": "online",
+    "snapshot_url": "https://layers.idrivearkansas.com/cameras/564.jpg"
+  },
+  {
+    "id": 568,
+    "name": "I-55 @ Bassett (Exit 36)",
+    "lat": 35.538803,
+    "lon": -90.164414,
+    "route": "I-55",
+    "state": "AR",
+    "status": "online",
+    "snapshot_url": "https://layers.idrivearkansas.com/cameras/568.jpg"
+  },
+  {
+    "id": 565,
+    "name": "I-55 @ Clarkedale Rd. (Exit 17)",
+    "lat": 35.306797,
+    "lon": -90.250806,
+    "route": "I-55",
+    "state": "AR",
+    "status": "online",
+    "snapshot_url": "https://layers.idrivearkansas.com/cameras/565.jpg"
+  },
+  {
+    "id": 566,
+    "name": "I-55 @ Highway 42 (Exit 21)",
+    "lat": 35.365525,
+    "lon": -90.280336,
+    "route": "I-55",
+    "state": "AR",
+    "status": "online",
+    "snapshot_url": "https://layers.idrivearkansas.com/cameras/566.jpg"
+  },
+  {
+    "id": 563,
+    "name": "I-55 @ US 64 (Exit 10)",
+    "lat": 35.211689,
+    "lon": -90.206861,
+    "route": "I-55",
+    "state": "AR",
+    "status": "online",
+    "snapshot_url": "https://layers.idrivearkansas.com/cameras/563.jpg"
+  },
+  {
+    "id": 567,
+    "name": "I-55 @ Highway 118 (Exit 34)",
+    "lat": 35.512219,
+    "lon": -90.179411,
+    "route": "I-55",
+    "state": "AR",
+    "status": "online",
+    "snapshot_url": "https://layers.idrivearkansas.com/cameras/567.jpg"
+  },
+  {
+    "id": 705,
+    "name": "I-555 @ Marked Tree (Exit 14)",
+    "lat": 35.525728,
+    "lon": -90.430583,
+    "route": "I-555",
+    "state": "AR",
+    "status": "online",
+    "snapshot_url": "https://layers.idrivearkansas.com/cameras/705.jpg"
+  },
+  {
+    "id": 706,
+    "name": "I-555 @ Gilmore (Exit 2)",
+    "lat": 35.411089,
+    "lon": -90.282961,
+    "route": "I-555",
+    "state": "AR",
+    "status": "online",
+    "snapshot_url": "https://layers.idrivearkansas.com/cameras/706.jpg"
+  }
+]

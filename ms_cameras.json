@@ -1,0 +1,2176 @@
+[
+  {
+    "name": "MS 302 at Getwell Rd",
+    "lat": 34.96241,
+    "lon": -89.93674,
+    "route": "MS-302",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "Getwell N of MS 302 PTZ",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/040108.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=040108.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "MS 302 E of Getwell",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/040201.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=040201.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "MS 302 W at Getwell",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/040202.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=040202.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "MS 302 at US 51",
+    "lat": 34.96253,
+    "lon": -90.01652,
+    "route": "MS-302",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "US 51 N of MS 302 PTZ",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/040401.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=040401.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "US 51 N at MS 302",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/040402.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=040402.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "US 51 S at MS 302",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/040403.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=040403.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "MS 302 E at US 51",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/040404.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=040404.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "MS 302 W at US 51",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/040405.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=040405.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "I-55 at Church Rd",
+    "lat": 34.93337,
+    "lon": -89.99446,
+    "route": "I-55",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "Church Rd E at I-55 PTZ",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/040105.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=040105.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-55 N at Church Rd",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/040106.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=040106.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-55 S at Church Rd",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/040107.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=040107.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "I-55 at MS 302",
+    "lat": 34.96243,
+    "lon": -89.99927,
+    "route": "I-55",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "I-55 N at MS 302 PTZ",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/041704.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=041704.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-55 N of MS 302 PTZ",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/040203.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=040203.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-55 N of MS 302",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/040204.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=040204.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-55 N to MS 302",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/041706.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=041706.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-55 S at MS 302",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/040205.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=040205.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-55 S to Church Rd",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/041705.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=041705.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "MS 302 W at I-55",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/040207.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=040207.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "MS 302 at Airways Blvd",
+    "lat": 34.96262,
+    "lon": -89.98992,
+    "route": "MS-302",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "Airways Blvd N of MS 302 PTZ",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/040101.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=040101.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "MS 302 E of Airways Blvd",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/040102.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=040102.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "MS 302 W at Airways Blvd",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/040103.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=040103.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "I-55 at Rasco Rd",
+    "lat": 34.97738,
+    "lon": -90.00157,
+    "route": "I-55",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "I-55 N of Rasco Rd PTZ",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/040407.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=040407.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-55 S at Rasco Rd PTZ",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/041707.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=041707.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-55 N to Stateline Rd",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/041801.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=041801.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-55 S at Rasco Rd",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/041708.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=041708.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "I-55 at Stateline",
+    "lat": 34.99179,
+    "lon": -90.00223,
+    "route": "I-55",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "I-55 S of Stateline Rd PTZ",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/040408.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=040408.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "Stateline Rd W of I-55 Ramp PTZ",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/040507.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=040507.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "Stateline Rd W at I-55 Ramp",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/040508.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=040508.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-55 N off ramp to Stateline Rd",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/040602.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=040602.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "Stateline Rd E of I-55 Ramp",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/040601.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=040601.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "Stateline at Millbranch Rd",
+    "lat": 34.99179,
+    "lon": -90.00794,
+    "route": "Other",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "Stateline Rd E of Millbranch PTZ",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/040208.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=040208.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "Millbranch Rd N of Stateline Rd",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/040301.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=040301.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "Stateline Rd W of Millbranch Rd",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/040302.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=040302.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "Stateline Rd at Airways Blvd",
+    "lat": 34.99179,
+    "lon": -89.98983,
+    "route": "Other",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "Airways N of Stateline Rd PTZ",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/040104.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=040104.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "Stateline Rd W of Marketplace PTZ",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/040304.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=040304.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "Stateline and US 51",
+    "lat": 34.99179,
+    "lon": -90.02236,
+    "route": "US-51",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "Stateline Rd E at US 51 PTZ",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/040305.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=040305.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "US 51 N of Stateline Rd",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/040307.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=040307.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "US 51 S at Stateline Rd",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/040308.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=040308.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "Stateline Rd W of US 51",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/040306.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=040306.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "Stateline and Whitworth",
+    "lat": 34.99185,
+    "lon": -90.01643,
+    "route": "Other",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "Stateline Rd E of Whitworth St PTZ",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/040303.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=040303.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "MS 302 at Tchulahoma Rd",
+    "lat": 34.9625,
+    "lon": -89.95437,
+    "route": "MS-302",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "Tchulahoma Rd N of MS 302 PTZ",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/040705.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=040705.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "Tchulahoma Rd S of MS 302",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/040501.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=040501.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "MS 302 E at Tchulahoma Rd",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/040502.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=040502.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "MS 302 W of Tchulahoma Rd",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/040706.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=040706.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "MS 302 at Elmore Rd",
+    "lat": 34.96273,
+    "lon": -89.98038,
+    "route": "MS-302",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "Elmore Rd S at MS 302 PTZ",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/040503.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=040503.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "Greenbrook Pkwy N at MS 302",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/040504.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=040504.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "MS 302 E at Elmore Rd",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/040505.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=040505.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "MS 302 W at Elmore Rd",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/040506.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=040506.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "MS 302 at Malone Rd",
+    "lat": 34.96236,
+    "lon": -89.919,
+    "route": "MS-302",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "MS 302 E at Malone Rd PTZ",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/040701.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=040701.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "MS 302 W of Malone Rd",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/040703.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=040703.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "US 78 at Ingrams Mill",
+    "lat": 34.89632,
+    "lon": -89.7436,
+    "route": "US-78",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "US 78 E at Red Banks Rd PTZ",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/110101.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=110101.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "Red Banks Rd N of US 78",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/110102.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=110102.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "Red Banks Rd S of US 78",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/110103.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=110103.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "US 78 E of Red Banks Rd",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/110104.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=110104.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "US 78 W of Red Banks Rd",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/110105.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=110105.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "I-22 at Vinson Rd",
+    "lat": 34.87241,
+    "lon": -89.7177,
+    "route": "I-22",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "I-22 W at Vinson Rd Overpass PTZ",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/110201.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=110201.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-22 E of Vinson Rd Overpass",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/110202.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=110202.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-22 W at Vinson Rd Overpass",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/110203.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=110203.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "I-22 at MS 309",
+    "lat": 34.85537,
+    "lon": -89.68861,
+    "route": "I-22",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "I-22 W of MS 309 PTZ",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/110204.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=110204.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "MS 309 N of I-22",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/110205.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=110205.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "MS 309 S of I-22",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/110206.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=110206.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-22 E of MS 309",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/110207.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=110207.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-22 W of MS 309",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/110208.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=110208.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "I-22 between Victoria Rd/MS 309",
+    "lat": 34.85173,
+    "lon": -89.66328,
+    "route": "I-22",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "I-22 E to Victoria Rd PTZ",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/110301.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=110301.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-22 E to Victoria Rd",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/110302.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=110302.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-22 W to MS 309",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/110303.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=110303.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "I-22 at Victoria Rd",
+    "lat": 34.83987,
+    "lon": -89.61742,
+    "route": "I-22",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "I-22 W at Victoria Rd PTZ",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/110304.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=110304.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "Victoria Rd N of I-22",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/110305.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=110305.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "Victoria Rd S of I-22",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/110306.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=110306.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-22 E of Victoria Rd",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/110307.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=110307.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-22 W of Victoria Rd",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/110308.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=110308.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "I-22 at Red Banks",
+    "lat": 34.82563,
+    "lon": -89.56462,
+    "route": "I-22",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "Red Banks Rd S at I-22 PTZ",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/110401.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=110401.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "Red Banks N at I-22",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/110402.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=110402.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-22 E at Red Banks",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/110404.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=110404.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-22 W at Red Banks",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/110405.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=110405.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "I-22 at Bicycle Rd",
+    "lat": 34.80733,
+    "lon": -89.51118,
+    "route": "I-22",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "I-22 E of Bicycle Rd Overpass PTZ",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/110406.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=110406.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-22 E of Bicycle Rd Overpass",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/110407.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=110407.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-22 W of Bicycle Rd Overpass",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/110408.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=110408.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "I-269 to TN State Line",
+    "lat": 34.98822,
+    "lon": -89.64066,
+    "route": "I-269",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "I-269 N to TN State Line PTZ",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/041208.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=041208.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "I-269 at MS 302",
+    "lat": 34.96237,
+    "lon": -89.64065,
+    "route": "I-269",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "I-269 N at MS 302 PTZ",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/041203.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=041203.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-269 S at MS 302 PTZ",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/041204.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=041204.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-269 S to MS 302 PTZ",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/041207.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=041207.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "MS 302 E to I-269 PTZ",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/041205.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=041205.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "MS 302 W to I-269 PTZ",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/041206.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=041206.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "I-269 at I-22",
+    "lat": 34.87937,
+    "lon": -89.72514,
+    "route": "I-269",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "I-269 N at I-22 PTZ",
+        "hls_url": "https://streamingshvn3.mdottraffic.com/rtplive/041105.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn3.mdottraffic.com/thumbnail?application=rtplive&streamname=041105.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-269 N at I-22",
+        "hls_url": "https://streamingshvn3.mdottraffic.com/rtplive/041106.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn3.mdottraffic.com/thumbnail?application=rtplive&streamname=041106.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-269 S at I-22",
+        "hls_url": "https://streamingshvn3.mdottraffic.com/rtplive/041107.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn3.mdottraffic.com/thumbnail?application=rtplive&streamname=041107.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "US 78 East of Red Banks Rd",
+    "lat": 34.8921,
+    "lon": -89.7394,
+    "route": "US-78",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "US 78 E at MM 11 PTZ",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/040903.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=040903.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "US 78 E at MM 11",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/040905.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=040905.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "US 78 W at MM 11",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/040904.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=040904.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "I-22 at Stonewall Rd",
+    "lat": 34.86007,
+    "lon": -89.70424,
+    "route": "I-22",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "I-22 W at Stonewall Rd PTZ",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/040906.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=040906.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-22 E at Stonewall Rd",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/040907.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=040907.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-22 W at Stonewall Rd",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/040908.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=040908.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "I-269 at Dogwood Rd",
+    "lat": 34.94818,
+    "lon": -89.64086,
+    "route": "I-269",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "I-269 N at Dogwood Rd PTZ",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/040808.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=040808.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-269 N at Dogwood Rd",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/040901.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=040901.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "I-269 at Coldwater Bridge",
+    "lat": 34.93032,
+    "lon": -89.64538,
+    "route": "I-269",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "I-269 N at Coldwater Bridge PTZ",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/040805.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=040805.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-269 S at Coldwater Bridge",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/040806.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=040806.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-269 N at Coldwater Bridge",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/040807.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=040807.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "I-269 at Davis Rd",
+    "lat": 34.91899,
+    "lon": -89.65515,
+    "route": "I-269",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "I-269 S at Davis Rd PTZ",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/040802.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=040802.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-269 N at Davis Rd",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/040803.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=040803.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-269 S at Davis Rd",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/040804.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=040804.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "I-269 at Deer Creek Rd",
+    "lat": 34.91019,
+    "lon": -89.6619,
+    "route": "I-269",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "I-269 S at Deer Creek Rd PTZ",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/040707.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=040707.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-269 N at Deer Creek Rd",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/040801.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=040801.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-269 S of Deer Creek Rd",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/040708.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=040708.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "I-269 North of MS 309",
+    "lat": 34.90025,
+    "lon": -89.67268,
+    "route": "I-269",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "I-269 S at Bubba Taylor Rd PTZ",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/040606.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=040606.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-269 N at Bubba Taylor Rd",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/040607.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=040607.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "I-269 at MS 309",
+    "lat": 34.8948,
+    "lon": -89.68904,
+    "route": "I-269",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "I-269 S at MS 309 PTZ",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/040603.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=040603.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-269 S at MS 309",
+        "hls_url": "https://streamingshvn3.mdottraffic.com/rtplive/040604.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn3.mdottraffic.com/thumbnail?application=rtplive&streamname=040604.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "I-269 at Shinault Rd",
+    "lat": 34.88976,
+    "lon": -89.70632,
+    "route": "I-269",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "I-269 S at Shinault Rd PTZ",
+        "hls_url": "https://streamingshvn3.mdottraffic.com/rtplive/041108.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn3.mdottraffic.com/thumbnail?application=rtplive&streamname=041108.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-269 N at Shinault Rd",
+        "hls_url": "https://streamingshvn3.mdottraffic.com/rtplive/041201.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn3.mdottraffic.com/thumbnail?application=rtplive&streamname=041201.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-269 S at Shinault Rd",
+        "hls_url": "https://streamingshvn3.mdottraffic.com/rtplive/041202.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn3.mdottraffic.com/thumbnail?application=rtplive&streamname=041202.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "I-269 South of I-22",
+    "lat": 34.87217,
+    "lon": -89.73778,
+    "route": "I-269",
+    "state": "MS",
+    "cam_views": []
+  },
+  {
+    "name": "I-269 North to Redbanks Rd",
+    "lat": 34.86769,
+    "lon": -89.77924,
+    "route": "I-269",
+    "state": "MS",
+    "cam_views": []
+  },
+  {
+    "name": "I-269 North of MS 305",
+    "lat": 34.86897,
+    "lon": -89.79291,
+    "route": "I-269",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "I-269 S to MS 305 PTZ",
+        "hls_url": "https://streamingshvn3.mdottraffic.com/rtplive/041004.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn3.mdottraffic.com/thumbnail?application=rtplive&streamname=041004.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-269 N of MS 305",
+        "hls_url": "https://streamingshvn3.mdottraffic.com/rtplive/041005.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn3.mdottraffic.com/thumbnail?application=rtplive&streamname=041005.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-269 S to MS 305",
+        "hls_url": "https://streamingshvn3.mdottraffic.com/rtplive/041006.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn3.mdottraffic.com/thumbnail?application=rtplive&streamname=041006.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "I-269 at MS 305",
+    "lat": 34.87036,
+    "lon": -89.83039,
+    "route": "I-269",
+    "state": "MS",
+    "cam_views": []
+  },
+  {
+    "name": "I-269 at Red Banks Rd",
+    "lat": 34.86802,
+    "lon": -89.7595,
+    "route": "I-269",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "I-269 N at Red Banks Rd PTZ",
+        "hls_url": "https://streamingshvn3.mdottraffic.com/rtplive/041403.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn3.mdottraffic.com/thumbnail?application=rtplive&streamname=041403.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-269 N at Red Banks Rd",
+        "hls_url": "https://streamingshvn3.mdottraffic.com/rtplive/041405.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn3.mdottraffic.com/thumbnail?application=rtplive&streamname=041405.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-269 S at Red Banks Rd",
+        "hls_url": "https://streamingshvn3.mdottraffic.com/rtplive/041404.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn3.mdottraffic.com/thumbnail?application=rtplive&streamname=041404.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "I-55 at Welcome Center",
+    "lat": 34.8056,
+    "lon": -89.96934,
+    "route": "I-55",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "I-55 N at Welcome Center PTZ",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/041406.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=041406.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-55 N of Welcome Center",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/042204.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=042204.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-55 S at Welcome Center",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/042205.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=042205.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "I-55 between MS 304 and I-69",
+    "lat": 34.84036,
+    "lon": -89.98286,
+    "route": "I-55",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "I-55 N of MS 304 PTZ",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/043303.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=043303.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-55 N to I-269 PTZ",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/041501.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=041501.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-55 N of MS 304",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/043305.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=043305.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-55 N to I-269",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/041503.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=041503.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-55 S at MS 304",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/043304.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=043304.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-55 S to MS 304",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/041502.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=041502.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "I-55 at I-269",
+    "lat": 34.86141,
+    "lon": -89.99115,
+    "route": "I-55",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "I-55 N of I-269 PTZ",
+        "hls_url": "https://streamingshvn3.mdottraffic.com/rtplive/041504.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn3.mdottraffic.com/thumbnail?application=rtplive&streamname=041504.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-269 N at I-55",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/041505.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=041505.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-55 N at I-269",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/041506.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=041506.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-55 S of I-269",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/041507.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=041507.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-69 S of I-55",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/041508.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=041508.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "I-55 at Nesbit Rd",
+    "lat": 34.88329,
+    "lon": -89.99117,
+    "route": "I-55",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "I-55 N of Nesbit Rd PTZ",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/041601.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=041601.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-55 S at Nesbit Rd",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/041605.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=041605.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "I-55 at Weigh Station",
+    "lat": 34.89335,
+    "lon": -89.99119,
+    "route": "I-55",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "I-55 N at Weigh Station PTZ",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/041606.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=041606.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-55 N at Weigh Station",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/041607.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=041607.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-55 S at Weigh Station",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/041608.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=041608.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "I-55 between Nesbit Rd and Church Rd",
+    "lat": 34.91422,
+    "lon": -89.99126,
+    "route": "I-55",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "I-55 N to Church Rd PTZ",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/041701.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=041701.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-55 N to Church Rd",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/041703.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=041703.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-55 S of Church Rd",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/041702.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=041702.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "US 51 at Church Rd",
+    "lat": 34.93356,
+    "lon": -90.01335,
+    "route": "US-51",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "US 51 N of Church Rd PTZ",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/041802.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=041802.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "US 51 N of Church Rd",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/041804.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=041804.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "US 51 S at Church Rd",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/041803.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=041803.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "Church Rd E of US 51",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/041805.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=041805.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "US 51 at Nail Rd",
+    "lat": 34.94827,
+    "lon": -90.01652,
+    "route": "US-51",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "US 51 N at Nail Rd PTZ",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/041807.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=041807.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "US 51 N at Nail Rd",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/041901.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=041901.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "US 51 S of Nail Rd",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/041808.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=041808.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "US 51 at Rasco Rd",
+    "lat": 34.97733,
+    "lon": -90.0159,
+    "route": "US-51",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "US 51 S of Rasco Rd PTZ",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/041902.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=041902.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "US 51 N at Rasco Rd",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/041903.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=041903.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "US 51 S of Rasco Rd",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/041905.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=041905.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "Rasco Rd E of US 51",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/041904.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=041904.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "Goodman Rd at Pigeon Roost Rd",
+    "lat": 34.96207,
+    "lon": -89.82778,
+    "route": "Other",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "Goodman Rd W at Pigeon Roost Rd PTZ",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/041906.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=041906.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "MS 305 at Goodman Rd",
+    "lat": 34.96185,
+    "lon": -89.8304,
+    "route": "MS-305",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "MS 305 S at Goodman Rd PTZ",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/041907.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=041907.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "MS 305 at Pigeon Roost Rd",
+    "lat": 34.9641,
+    "lon": -89.83042,
+    "route": "MS-305",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "MS 305 S at Pigeon Roost Rd PTZ",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/041908.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=041908.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "MS 305 at Longwood Dr",
+    "lat": 34.97685,
+    "lon": -89.83055,
+    "route": "MS-305",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "MS 305 S of Longwood Dr PTZ",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/042001.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=042001.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "US 51 at MS 304",
+    "lat": 34.82354,
+    "lon": -89.99412,
+    "route": "US-51",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "MS 304 E at US 51 PTZ",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/042002.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=042002.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "US 51 N of MS 304",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/042004.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=042004.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "US 51 S of MS 304",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/042003.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=042003.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "MS 304 W of US 51",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/042005.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=042005.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "MS 304 at Mt Pleasant Rd",
+    "lat": 34.82374,
+    "lon": -89.9838,
+    "route": "MS-304",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "MS 304 E at Mt Pleasant Rd PTZ",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/042006.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=042006.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "MS 304 at McIngvale Rd",
+    "lat": 34.82383,
+    "lon": -89.97209,
+    "route": "MS-304",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "MS 304 W of McIngvale Rd PTZ",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/042007.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=042007.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "I-69 at I-55",
+    "lat": 34.862,
+    "lon": -89.9999,
+    "route": "I-69",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "I-69 N at I-55 PTZ",
+        "hls_url": "https://streamingshvn3.mdottraffic.com/rtplive/042008.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn3.mdottraffic.com/thumbnail?application=rtplive&streamname=042008.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-69 N at I-55",
+        "hls_url": "https://streamingshvn3.mdottraffic.com/rtplive/042102.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn3.mdottraffic.com/thumbnail?application=rtplive&streamname=042102.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-69 S at I-55",
+        "hls_url": "https://streamingshvn3.mdottraffic.com/rtplive/042101.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn3.mdottraffic.com/thumbnail?application=rtplive&streamname=042101.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "US 78 at Weigh Station",
+    "lat": 34.95216,
+    "lon": -89.84095,
+    "route": "US-78",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "US 78 E at Weigh Station PTZ",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/042103.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=042103.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "US 78 E at Weigh Station",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/042104.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=042104.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "US 78 W at Weigh Station",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/042105.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=042105.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "US 78 at MS 305",
+    "lat": 34.94569,
+    "lon": -89.83054,
+    "route": "US-78",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "US 78 E at MS 305 PTZ",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/042106.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=042106.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "MS 305 N at US 78",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/042201.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=042201.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "MS 305 S at US 78",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/042202.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=042202.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "US 78 E at MS 305",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/042108.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=042108.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "US 78 W at MS 305",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/042107.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=042107.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "I-55 at Rest Area",
+    "lat": 34.76925,
+    "lon": -89.96408,
+    "route": "I-55",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "I-55 S at Rest Area PTZ",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/042203.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=042203.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-55 N at Rest Area",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/041407.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=041407.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-55 S at Rest Area",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/041408.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=041408.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "US 78 at MM 5",
+    "lat": 34.93504,
+    "lon": -89.81249,
+    "route": "US-78",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "US 78 E at MM 5 PTZ",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/042206.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=042206.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "US 78 E AT MM 5",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/042208.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=042208.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "US 78 W at MM 5",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/042207.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=042207.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "US 78 at Hacks Cross Rd",
+    "lat": 34.92691,
+    "lon": -89.795,
+    "route": "US-78",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "US 78 W of Hacks Cross Rd PTZ",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/042301.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=042301.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "Hacks Cross Rd N of US 78",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/042303.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=042303.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "Bethel Rd S of US 78",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/042302.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=042302.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "US 78 E at Hacks Cross Rd",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/042304.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=042304.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "US 78 W of Hacks Cross Rd",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/042305.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=042305.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "US 78 at MM 8",
+    "lat": 34.91837,
+    "lon": -89.77679,
+    "route": "US-78",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "US 78 E at MM 8 PTZ",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/042306.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=042306.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "US 78 E at MM 8",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/042308.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=042308.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "US 78 W at MM 8",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/042307.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=042307.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "MS 301 at MS 302",
+    "lat": 34.96248,
+    "lon": -90.09609,
+    "route": "MS-301",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "MS 301 N of MS 302 PTZ",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/042404.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=042404.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "MS 301 N at MS 302",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/042405.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=042405.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "MS 301 S of MS 302",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/042408.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=042408.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "MS 302 E at MS 301",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/042406.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=042406.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "MS 302 W of MS 301",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/042407.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=042407.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "MS 302 at Horn Lake Rd",
+    "lat": 34.96267,
+    "lon": -90.06074,
+    "route": "MS-302",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "Horn Lake Rd N at MS 302 PTZ",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/042501.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=042501.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "Horn Lake Rd N at MS 302",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/042502.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=042502.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "Horn Lake Rd S at MS 302",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/042503.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=042503.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "MS 302 E at Horn Lake Rd",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/042505.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=042505.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "MS 302 W at Horn Lake Rd",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/042504.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=042504.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "Tulane Rd at MS 302",
+    "lat": 34.96262,
+    "lon": -90.04685,
+    "route": "MS-302",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "Tulane Rd N at MS 302 PTZ",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/042506.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=042506.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "Tulane Rd S of MS 302",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/042508.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=042508.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "MS 302 E of Tulane Rd",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/042507.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=042507.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "MS 302 W at Tulane Rd",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/042601.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=042601.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "MS 302 at Hurt Rd",
+    "lat": 34.96263,
+    "lon": -90.03414,
+    "route": "MS-302",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "MS 302 E of Hurt Rd PTZ",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/042602.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=042602.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "MS 302 E of Hurt Rd",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/042604.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=042604.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "MS 302 W of Hurt Rd",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/042603.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=042603.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "MS 302 at Mallard Creek Dr",
+    "lat": 34.96262,
+    "lon": -90.03974,
+    "route": "MS-302",
+    "state": "MS",
+    "cam_views": []
+  },
+  {
+    "name": "MS 302 at Interstate Blvd",
+    "lat": 34.96264,
+    "lon": -90.00396,
+    "route": "MS-302",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "MS 302 W of Interstate Blvd PTZ",
+        "hls_url": "https://streamingshvn3.mdottraffic.com/rtplive/042608.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn3.mdottraffic.com/thumbnail?application=rtplive&streamname=042608.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "Interstate Blvd S of MS 302",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/042702.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=042702.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "MS 302 E of Interstate Blvd",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/042703.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=042703.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "MS 302 W of Interstate Blvd",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/042701.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=042701.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "I-55 at MS 304",
+    "lat": 34.82396,
+    "lon": -89.97613,
+    "route": "I-55",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "I-55 N at MS 304 PTZ",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/042704.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=042704.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-55 N at MS 304",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/042706.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=042706.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-55 S of MS 304",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/042708.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=042708.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "MS 304 E of I-55",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/042707.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=042707.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "MS 304 W at I-55",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/042705.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=042705.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "MS 302 at Pleasant Hill Rd",
+    "lat": 34.96256,
+    "lon": -89.90133,
+    "route": "MS-302",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "Pleasant Hill Rd N of MS 302 PTZ",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/042801.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=042801.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "Pleasant Hill Rd N of MS 302",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/042804.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=042804.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "Pleasant Hill Rd S of MS 302",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/042805.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=042805.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "MS 302 E of Pleasant Hill Rd",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/042802.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=042802.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "MS 302 W of Pleasant Hill Rd",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/042803.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=042803.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "MS 302 at Davisdon Rd",
+    "lat": 34.96223,
+    "lon": -89.88365,
+    "route": "MS-302",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "Davidson Rd N of MS 302 PTZ",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/042806.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=042806.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "Davidson Rd S of MS 302",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/042808.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=042808.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "MS 302 E of Davidson Rd",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/042807.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=042807.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "MS 302 W of Davidson Rd",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/042901.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=042901.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "MS 302 at Craft Rd",
+    "lat": 34.96222,
+    "lon": -89.86568,
+    "route": "MS-302",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "Craft Rd N of MS 302 PTZ",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/042902.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=042902.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "Craft Rd N of MS 302",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/042903.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=042903.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "Craft Rd S of MS 302",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/042906.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=042906.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "MS 302 E of Craft Rd",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/042905.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=042905.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "MS 302 W at Craft Rd",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/042904.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=042904.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "US 78 at MS 302",
+    "lat": 34.96217,
+    "lon": -89.85268,
+    "route": "US-78",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "MS 302 W of US 78 PTZ",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/042907.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=042907.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "US 78 W at MS 302 PTZ",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/043007.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=043007.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "MS 302 E at US 78",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/042908.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=042908.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "US 78 E at MS 302",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/043101.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=043101.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "MS 302 W of US 78",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/043001.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=043001.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "US 78 W at MS 302",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/043008.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=043008.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "MS 302 at Craft-Goodmand Rd",
+    "lat": 34.96326,
+    "lon": -89.84566,
+    "route": "MS-302",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "MS 302 E of Craft-Goodman PTZ",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/043002.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=043002.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "Craft-Goodman Rd N of MS 302",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/043003.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=043003.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "Craft-Goodman Rd S of MS 302",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/043005.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=043005.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "MS 302 E of Craft-Goodman Rd",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/043004.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=043004.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "MS 302 W of Craft-Goodman Rd",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/043006.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=043006.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "MS 302 at MS 305",
+    "lat": 34.96873,
+    "lon": -89.83043,
+    "route": "MS-302",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "MS 302 W at MS 305 PTZ",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/043105.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=043105.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "MS 305 N of MS 302",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/043103.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=043103.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "MS 305 S at MS 302",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/043104.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=043104.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "MS 302 E of MS 305",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/043106.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=043106.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "MS 302 W at MS 305",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/043107.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=043107.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "MS 302 at Alexander Rd",
+    "lat": 34.96915,
+    "lon": -89.81287,
+    "route": "MS-302",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "MS 302 W at Alexander Rd PTZ",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/043108.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=043108.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "Alexander Rd N at MS 302",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/043203.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=043203.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "Alexander Rd S at MS 302",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/043201.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=043201.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "MS 302 E at Alexander Rd",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/043204.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=043204.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "MS 302 W at Alexander Rd",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/043202.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=043202.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "MS 302 at Hacks Cross Rd",
+    "lat": 34.96194,
+    "lon": -89.79571,
+    "route": "MS-302",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "MS 302 E at Hacks Cross Rd PTZ",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/043205.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=043205.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "Hacks Cross Rd N at MS 302",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/043301.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=043301.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "Hacks Cross Rd S at MS 302",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/043207.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=043207.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "MS 302 E at Hacks Cross Rd",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/043208.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=043208.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "MS 302 W at Hacks Cross Rd",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/043206.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=043206.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "Nail Rd at Hurt Rd",
+    "lat": 34.94805,
+    "lon": -90.0342,
+    "route": "Other",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "Nail Rd W at Hurt Rd PTZ",
+        "hls_url": "https://streamingshvn1.mdottraffic.com/rtplive/043302.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn1.mdottraffic.com/thumbnail?application=rtplive&streamname=043302.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "MS 178 at Goodman Rd",
+    "lat": 34.96219,
+    "lon": -89.82503,
+    "route": "MS-178",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "MS 178 W at Goodman Rd PTZ",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/043306.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=043306.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "I-269 at McIngvale Rd",
+    "lat": 34.86304,
+    "lon": -89.96917,
+    "route": "I-269",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "McIngvale Rd S at I-269 PTZ",
+        "hls_url": "https://streamingshvn3.mdottraffic.com/rtplive/043307.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn3.mdottraffic.com/thumbnail?application=rtplive&streamname=043307.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-269 N at McIngvale Rd",
+        "hls_url": "https://streamingshvn3.mdottraffic.com/rtplive/043310.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn3.mdottraffic.com/thumbnail?application=rtplive&streamname=043310.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "McIngvale Rd N at I-269",
+        "hls_url": "https://streamingshvn3.mdottraffic.com/rtplive/043308.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn3.mdottraffic.com/thumbnail?application=rtplive&streamname=043308.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-269 S at McIngvale Rd",
+        "hls_url": "https://streamingshvn3.mdottraffic.com/rtplive/043309.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn3.mdottraffic.com/thumbnail?application=rtplive&streamname=043309.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "I-269 at Malone Rd",
+    "lat": 34.87089,
+    "lon": -89.91621,
+    "route": "I-269",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "I-269 S at Malone Rd PTZ",
+        "hls_url": "https://streamingshvn3.mdottraffic.com/rtplive/043401.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn3.mdottraffic.com/thumbnail?application=rtplive&streamname=043401.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-269 N of Malone Rd",
+        "hls_url": "https://streamingshvn3.mdottraffic.com/rtplive/043402.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn3.mdottraffic.com/thumbnail?application=rtplive&streamname=043402.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "I-269 at Ross Rd",
+    "lat": 34.8699,
+    "lon": -89.84942,
+    "route": "I-269",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "I-269 S at Ross Rd PTZ",
+        "hls_url": "https://streamingshvn3.mdottraffic.com/rtplive/043403.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn3.mdottraffic.com/thumbnail?application=rtplive&streamname=043403.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-269 N of Ross Rd",
+        "hls_url": "https://streamingshvn3.mdottraffic.com/rtplive/043404.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn3.mdottraffic.com/thumbnail?application=rtplive&streamname=043404.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "I-269 btwn McIngvale Rd and Getwell Rd",
+    "lat": 34.86951,
+    "lon": -89.95464,
+    "route": "I-269",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "I-269 S to McIngvale Rd PTZ",
+        "hls_url": "https://streamingshvn3.mdottraffic.com/rtplive/043405.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn3.mdottraffic.com/thumbnail?application=rtplive&streamname=043405.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-269 N at Getwell Rd",
+        "hls_url": "https://streamingshvn3.mdottraffic.com/rtplive/043406.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn3.mdottraffic.com/thumbnail?application=rtplive&streamname=043406.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "I-269 at Laughter Rd",
+    "lat": 34.87397,
+    "lon": -89.90163,
+    "route": "I-269",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "Laughter Rd N of I-269 PTZ",
+        "hls_url": "https://streamingshvn3.mdottraffic.com/rtplive/043407.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn3.mdottraffic.com/thumbnail?application=rtplive&streamname=043407.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-269 N of Laughter Rd",
+        "hls_url": "https://streamingshvn3.mdottraffic.com/rtplive/043501.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn3.mdottraffic.com/thumbnail?application=rtplive&streamname=043501.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-269 S of Laughter Rd",
+        "hls_url": "https://streamingshvn3.mdottraffic.com/rtplive/043502.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn3.mdottraffic.com/thumbnail?application=rtplive&streamname=043502.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "Laughter Rd S of I-269",
+        "hls_url": "https://streamingshvn3.mdottraffic.com/rtplive/043408.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn3.mdottraffic.com/thumbnail?application=rtplive&streamname=043408.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "I-269 at Getwell Rd",
+    "lat": 34.87063,
+    "lon": -89.93689,
+    "route": "I-269",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "Getwell Rd N at I-269 PTZ",
+        "hls_url": "https://streamingshvn3.mdottraffic.com/rtplive/043505.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn3.mdottraffic.com/thumbnail?application=rtplive&streamname=043505.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-269 N of Getwell Rd",
+        "hls_url": "https://streamingshvn3.mdottraffic.com/rtplive/043506.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn3.mdottraffic.com/thumbnail?application=rtplive&streamname=043506.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "Getwell Rd S of I-269",
+        "hls_url": "https://streamingshvn3.mdottraffic.com/rtplive/043507.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn3.mdottraffic.com/thumbnail?application=rtplive&streamname=043507.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-269 S of Getwell Rd",
+        "hls_url": "https://streamingshvn3.mdottraffic.com/rtplive/043508.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn3.mdottraffic.com/thumbnail?application=rtplive&streamname=043508.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "I-269 at Craft Rd",
+    "lat": 34.86491,
+    "lon": -89.8658,
+    "route": "I-269",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "Craft Rd S of I-269 PTZ",
+        "hls_url": "https://streamingshvn3.mdottraffic.com/rtplive/043601.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn3.mdottraffic.com/thumbnail?application=rtplive&streamname=043601.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "Craft Rd N of I-269",
+        "hls_url": "https://streamingshvn3.mdottraffic.com/rtplive/043602.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn3.mdottraffic.com/thumbnail?application=rtplive&streamname=043602.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-269 N at Craft Rd",
+        "hls_url": "https://streamingshvn3.mdottraffic.com/rtplive/043604.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn3.mdottraffic.com/thumbnail?application=rtplive&streamname=043604.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "I-269 S of Craft Rd",
+        "hls_url": "https://streamingshvn3.mdottraffic.com/rtplive/043603.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn3.mdottraffic.com/thumbnail?application=rtplive&streamname=043603.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "I-69 at Fogg Rd",
+    "lat": 34.8613,
+    "lon": -90.07812,
+    "route": "I-69",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "I-69 N at Fogg Rd PTZ",
+        "hls_url": "https://streamingshvn3.mdottraffic.com/rtplive/043503.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn3.mdottraffic.com/thumbnail?application=rtplive&streamname=043503.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  },
+  {
+    "name": "US 78 at MM 9",
+    "lat": 34.90964,
+    "lon": -89.75831,
+    "route": "US-78",
+    "state": "MS",
+    "cam_views": [
+      {
+        "title": "US 78 E at MM 9 PTZ",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/042401.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=042401.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "US 78 E at MM 9",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/042402.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=042402.stream&size=352x240&format=jpg&fitmode=stretch"
+      },
+      {
+        "title": "US 78 W at MM 9",
+        "hls_url": "https://streamingshvn2.mdottraffic.com/rtplive/042403.stream/playlist.m3u8",
+        "thumbnail_url": "https://streamingshvn2.mdottraffic.com/thumbnail?application=rtplive&streamname=042403.stream&size=352x240&format=jpg&fitmode=stretch"
+      }
+    ]
+  }
+]

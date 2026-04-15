@@ -286,6 +286,39 @@
           <audio id="scannerAudio" preload="none" crossorigin="anonymous"></audio>
         </div>
 
+        <!-- VOX Recorder -->
+        <div class="sidebar-section vox-section">
+          <label class="sidebar-label">VOX Recorder</label>
+          <div class="vox-controls">
+            <button class="vox-toggle-btn" id="voxToggleBtn" title="Arm VOX recording">
+              <span class="vox-dot" id="voxDot"></span>
+              <span id="voxBtnLabel">VOX OFF</span>
+            </button>
+            <div class="vox-sensitivity">
+              <label class="vox-sens-label">Sensitivity</label>
+              <input type="range" id="voxSensSlider" min="1" max="80" value="12" class="vox-slider" />
+              <span class="vox-sens-val" id="voxSensVal">12</span>
+            </div>
+            <div class="vox-meter-wrap">
+              <div class="vox-meter-bar" id="voxMeterBar"></div>
+              <div class="vox-meter-threshold" id="voxMeterThreshold"></div>
+            </div>
+          </div>
+          <div class="vox-clip-list" id="voxClipList">
+            <div class="vox-empty">No clips yet — arm VOX and wait for transmissions</div>
+          </div>
+          <div class="vox-actions" id="voxActions" style="display:none">
+            <button class="vox-action-btn" id="voxDownloadAll" title="Download all clips as zip">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+              Download All
+            </button>
+            <button class="vox-action-btn vox-clear-btn" id="voxClearAll" title="Delete all clips">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="3 6 5 6 21 6"/><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"/></svg>
+              Clear All
+            </button>
+          </div>
+        </div>
+
         <!-- Group filter -->
         <div class="sidebar-section">
           <label class="sidebar-label">Filter by Agency</label>
@@ -523,6 +556,7 @@
   <script src="scanner_data.js"></script>
   <script src="app.js"></script>
   <script src="scanner.js"></script>
+  <script src="vox.js"></script>
   <script src="speedcams.js"></script>
 
   <!-- Service Worker Registration -->

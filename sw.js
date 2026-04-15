@@ -3,7 +3,7 @@
    Cache-first for app shell, network-first for API/tile data
    ================================================================ */
 
-const CACHE_NAME = 'memphis-live-v3';
+const CACHE_NAME = 'memphis-live-v4';
 
 // App shell files to cache on install
 const APP_SHELL = [
@@ -14,6 +14,7 @@ const APP_SHELL = [
   './scanner.js',
   './scanner_data.js',
   './speedcams.js',
+  './vox.js',
   './cameras.json',
   './ms_cameras.json',
   './ar_cameras.json',

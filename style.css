@@ -1925,6 +1925,259 @@ video {
   line-height: 1;
 }
 
+/* ═══════════════════════════════════════════════════════════════
+   VOX RECORDER
+   ═══════════════════════════════════════════════════════════════ */
+
+.vox-section {
+  border-top: 1px solid var(--color-divider);
+  padding-top: 12px;
+}
+
+/* ─── Toggle Button ─── */
+.vox-controls {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.vox-toggle-btn {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 14px;
+  border-radius: 8px;
+  border: 1px solid var(--color-divider);
+  background: var(--color-bg-secondary);
+  color: var(--color-text-muted);
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  cursor: pointer;
+  transition: all 0.2s;
+  width: 100%;
+  justify-content: center;
+}
+.vox-toggle-btn:hover {
+  border-color: var(--color-text-muted);
+}
+.vox-toggle-btn.armed {
+  background: rgba(248, 81, 73, 0.1);
+  border-color: #f85149;
+  color: #f85149;
+}
+
+/* ─── VOX Dot (status indicator) ─── */
+.vox-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: var(--color-text-muted);
+  flex-shrink: 0;
+  transition: background 0.2s;
+}
+.vox-dot.armed {
+  background: #f85149;
+  animation: vox-pulse 1.5s ease infinite;
+}
+.vox-dot.recording {
+  background: #f85149;
+  animation: vox-blink 0.4s ease infinite;
+}
+
+@keyframes vox-pulse {
+  0%, 100% { opacity: 1; }
+  50%      { opacity: 0.4; }
+}
+@keyframes vox-blink {
+  0%, 100% { opacity: 1; }
+  50%      { opacity: 0.2; }
+}
+
+/* ─── Sensitivity Slider ─── */
+.vox-sensitivity {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.vox-sens-label {
+  font-size: 10px;
+  color: var(--color-text-muted);
+  white-space: nowrap;
+}
+.vox-slider {
+  flex: 1;
+  height: 4px;
+  -webkit-appearance: none;
+  appearance: none;
+  background: var(--color-divider);
+  border-radius: 2px;
+  outline: none;
+}
+.vox-slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: var(--color-text);
+  cursor: pointer;
+}
+.vox-sens-val {
+  font-size: 10px;
+  color: var(--color-text-muted);
+  font-family: var(--font-mono);
+  min-width: 18px;
+  text-align: right;
+}
+
+/* ─── Audio Level Meter ─── */
+.vox-meter-wrap {
+  position: relative;
+  height: 6px;
+  background: var(--color-bg-tertiary, #161b22);
+  border-radius: 3px;
+  overflow: visible;
+}
+.vox-meter-bar {
+  height: 100%;
+  border-radius: 3px;
+  width: 0;
+  background: var(--color-text-muted);
+  transition: width 0.08s linear;
+}
+.vox-meter-threshold {
+  position: absolute;
+  top: -2px;
+  width: 2px;
+  height: 10px;
+  background: #f59e0b;
+  border-radius: 1px;
+  pointer-events: none;
+}
+
+/* ─── Clip List ─── */
+.vox-clip-list {
+  max-height: 240px;
+  overflow-y: auto;
+  margin-top: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.vox-empty {
+  font-size: 11px;
+  color: var(--color-text-muted);
+  text-align: center;
+  padding: 16px 8px;
+}
+
+.vox-clip-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 6px 8px;
+  border-radius: 6px;
+  background: var(--color-bg-secondary);
+  gap: 8px;
+}
+.vox-clip-row:hover {
+  background: var(--color-bg-tertiary, #1c2128);
+}
+
+.vox-clip-info {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex: 1;
+  min-width: 0;
+  overflow: hidden;
+}
+.vox-clip-feed {
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--color-text);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 90px;
+}
+.vox-clip-time {
+  font-size: 10px;
+  color: var(--color-text-muted);
+  font-family: var(--font-mono);
+  white-space: nowrap;
+}
+.vox-clip-dur {
+  font-size: 10px;
+  color: var(--color-text-muted);
+  font-family: var(--font-mono);
+  white-space: nowrap;
+}
+
+.vox-clip-controls {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  flex-shrink: 0;
+}
+
+.vox-clip-btn {
+  width: 26px;
+  height: 26px;
+  border-radius: 6px;
+  border: none;
+  background: transparent;
+  color: var(--color-text-muted);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.15s;
+}
+.vox-clip-btn:hover {
+  background: var(--color-bg-secondary);
+  color: var(--color-text);
+}
+.vox-del-clip:hover {
+  color: #f85149;
+}
+
+.vox-clip-audio {
+  display: none;
+}
+
+/* ─── Actions Bar ─── */
+.vox-actions {
+  display: flex;
+  gap: 6px;
+  margin-top: 8px;
+}
+.vox-action-btn {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  padding: 7px 10px;
+  border-radius: 6px;
+  border: 1px solid var(--color-divider);
+  background: var(--color-bg-secondary);
+  color: var(--color-text-muted);
+  font-size: 11px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+.vox-action-btn:hover {
+  border-color: var(--color-text-muted);
+  color: var(--color-text);
+}
+.vox-clear-btn:hover {
+  border-color: #f85149;
+  color: #f85149;
+}
+
 /* ─── Traffic Flow Toggle Button ─── */
 .traffic-flow-btn {
   position: relative;
